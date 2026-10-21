@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Revisão ativa para o ENEM</title>
+  <desc id="desc">Ilustração colorida com o ciclo lembrar, testar, corrigir e retomar</desc>
+  <rect width="1600" height="900" rx="36" fill="#ffd934"/>
+  <path d="M0 690 C300 590 530 840 850 710 C1110 605 1320 660 1600 540 V900 H0Z" fill="#6dd285"/>
+  <circle cx="1390" cy="150" r="170" fill="#ff7096"/>
+  <circle cx="125" cy="120" r="76" fill="#2e8fea"/>
+  <rect x="90" y="95" width="1420" height="710" rx="34" fill="#fff" stroke="#111" stroke-width="10"/>
+  <rect x="135" y="140" width="380" height="72" rx="36" fill="#cfc4ff" stroke="#111" stroke-width="6"/>
+  <text x="325" y="188" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="900" fill="#111">ESTRATÉGIA DE ESTUDO</text>
+  <text x="135" y="330" font-family="Arial,Helvetica,sans-serif" font-size="105" font-weight="900" fill="#111">REVISÃO ATIVA</text>
+  <text x="135" y="440" font-family="Arial,Helvetica,sans-serif" font-size="105" font-weight="900" fill="#2e8fea">PARA O ENEM</text>
+  <path d="M140 468 H855" stroke="#ff7096" stroke-width="20" stroke-linecap="round"/>
+  <g font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="35" text-anchor="middle" fill="#111">
+    <rect x="150" y="555" width="265" height="110" rx="24" fill="#ffd934" stroke="#111" stroke-width="6"/><text x="282" y="621">1. LEMBRAR</text>
+    <rect x="465" y="555" width="265" height="110" rx="24" fill="#6dd285" stroke="#111" stroke-width="6"/><text x="598" y="621">2. TESTAR</text>
+    <rect x="780" y="555" width="265" height="110" rx="24" fill="#ff7096" stroke="#111" stroke-width="6"/><text x="912" y="621">3. CORRIGIR</text>
+    <rect x="1095" y="555" width="300" height="110" rx="24" fill="#cfc4ff" stroke="#111" stroke-width="6"/><text x="1245" y="621">4. RETOMAR</text>
+  </g>
+  <g fill="none" stroke="#111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M415 610 H455"/><path d="M442 594 L458 610 L442 626"/>
+    <path d="M730 610 H770"/><path d="M757 594 L773 610 L757 626"/>
+    <path d="M1045 610 H1085"/><path d="M1072 594 L1088 610 L1072 626"/>
+  </g>
+  <g transform="translate(1120 235)" stroke="#111" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 140 C5 80 38 12 105 20 C140 -12 205 4 220 50 C280 48 302 118 265 155 C286 205 242 250 195 234 C158 278 95 255 88 210 C38 213 8 177 40 140Z" fill="#ffd934"/>
+    <path d="M150 65 V180 M105 108 H195" fill="none"/>
+    <path d="M315 58 l28 28 54-68" fill="none"/>
+    <rect x="300" y="28" width="120" height="120" rx="22" fill="#6dd285"/>
+  </g>
+  <text x="1370" y="760" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="900" fill="#111">MAPAS DO ENEM</text>
+</svg>
