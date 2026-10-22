@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Respiração celular no ENEM</title><desc id="desc">Mapa visual da glicólise, ciclo de Krebs e cadeia respiratória</desc>
+  <rect width="1600" height="900" fill="#6dd285"/><circle cx="1450" cy="120" r="225" fill="#ffd934"/><circle cx="130" cy="805" r="215" fill="#cfc4ff"/>
+  <rect x="70" y="65" width="1460" height="770" rx="48" fill="#f6f0e4" stroke="#111" stroke-width="14"/>
+  <rect x="110" y="105" width="390" height="64" rx="32" fill="#2e8fea" stroke="#111" stroke-width="7"/><text x="305" y="149" text-anchor="middle" font-family="Arial,sans-serif" font-size="31" font-weight="900">BIOLOGIA • ENEM</text>
+  <text x="110" y="270" font-family="Arial,sans-serif" font-size="79" font-weight="900">RESPIRAÇÃO</text><text x="110" y="355" font-family="Arial,sans-serif" font-size="79" font-weight="900">CELULAR</text>
+  <g font-family="Arial,sans-serif" font-weight="900" text-anchor="middle">
+    <rect x="110" y="430" width="350" height="150" rx="28" fill="#ffd934" stroke="#111" stroke-width="7"/><text x="285" y="490" font-size="37">GLICÓLISE</text><text x="285" y="535" font-size="25">CITOSOL</text>
+    <path d="M470 505H570" stroke="#111" stroke-width="13"/><path d="M550 480L585 505L550 530" fill="none" stroke="#111" stroke-width="13"/>
+    <rect x="590" y="430" width="350" height="150" rx="28" fill="#ff7096" stroke="#111" stroke-width="7"/><text x="765" y="490" font-size="37">KREBS</text><text x="765" y="535" font-size="25">MATRIZ</text>
+    <path d="M950 505H1050" stroke="#111" stroke-width="13"/><path d="M1030 480L1065 505L1030 530" fill="none" stroke="#111" stroke-width="13"/>
+    <rect x="1070" y="430" width="420" height="150" rx="28" fill="#2e8fea" stroke="#111" stroke-width="7"/><text x="1280" y="490" font-size="35">CADEIA + ATP</text><text x="1280" y="535" font-size="25">MEMBRANA INTERNA</text>
+  </g>
+  <path d="M1160 640C1160 610 1190 600 1220 600H1420C1460 600 1480 625 1480 660V725" fill="none" stroke="#111" stroke-width="10"/>
+  <circle cx="1450" cy="735" r="43" fill="#fff" stroke="#111" stroke-width="7"/><text x="1450" y="746" text-anchor="middle" font-family="Arial,sans-serif" font-size="31" font-weight="900">O₂</text>
+  <text x="110" y="690" font-family="Arial,sans-serif" font-size="35" font-weight="900">ENERGIA DA GLICOSE → ELÉTRONS → GRADIENTE → ATP</text>
+  <text x="110" y="765" font-family="Arial,sans-serif" font-size="28" font-weight="700">Entenda os fluxos. Não decore só a sequência.</text>
+</svg>
