@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Proposta de intervenção no ENEM</title><desc id="desc">Mapa visual dos cinco elementos: agente, ação, meio, efeito e detalhamento</desc>
+  <rect width="1600" height="900" fill="#cfc4ff"/><circle cx="1420" cy="120" r="230" fill="#ffd934"/><circle cx="150" cy="790" r="210" fill="#ff7096"/>
+  <rect x="70" y="65" width="1460" height="770" rx="48" fill="#f6f0e4" stroke="#111" stroke-width="14"/>
+  <rect x="110" y="105" width="360" height="64" rx="32" fill="#2e8fea" stroke="#111" stroke-width="7"/><text x="290" y="149" text-anchor="middle" font-family="Arial,sans-serif" font-size="31" font-weight="900">REDAÇÃO • ENEM</text>
+  <text x="110" y="270" font-family="Arial,sans-serif" font-size="77" font-weight="900">PROPOSTA DE</text><text x="110" y="355" font-family="Arial,sans-serif" font-size="77" font-weight="900">INTERVENÇÃO</text>
+  <g font-family="Arial,sans-serif" font-weight="900" font-size="34" text-anchor="middle">
+    <rect x="110" y="430" width="250" height="120" rx="25" fill="#ffd934" stroke="#111" stroke-width="7"/><text x="235" y="502">1. AGENTE</text>
+    <path d="M365 490H405" stroke="#111" stroke-width="12"/>
+    <rect x="410" y="430" width="250" height="120" rx="25" fill="#6dd285" stroke="#111" stroke-width="7"/><text x="535" y="502">2. AÇÃO</text>
+    <path d="M665 490H705" stroke="#111" stroke-width="12"/>
+    <rect x="710" y="430" width="250" height="120" rx="25" fill="#2e8fea" stroke="#111" stroke-width="7"/><text x="835" y="502">3. MEIO</text>
+    <path d="M965 490H1005" stroke="#111" stroke-width="12"/>
+    <rect x="1010" y="430" width="250" height="120" rx="25" fill="#ff7096" stroke="#111" stroke-width="7"/><text x="1135" y="502">4. EFEITO</text>
+  </g>
+  <path d="M1260 490Q1400 490 1400 625Q1400 700 1285 700" fill="none" stroke="#111" stroke-width="12"/>
+  <rect x="755" y="625" width="530" height="120" rx="25" fill="#fff" stroke="#111" stroke-width="7"/><text x="1020" y="698" text-anchor="middle" font-family="Arial,sans-serif" font-size="38" font-weight="900">5. DETALHAMENTO</text>
+  <text x="110" y="710" font-family="Arial,sans-serif" font-size="34" font-weight="800">Quem? • O quê? • Como? • Para quê? • Qual detalhe?</text>
+  <text x="110" y="785" font-family="Arial,sans-serif" font-size="28" font-weight="700">Coerente com o texto e com os direitos humanos.</text>
+</svg>
