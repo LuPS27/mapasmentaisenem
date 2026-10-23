@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Biomas brasileiros no ENEM</title><desc id="desc">Mapa visual dos seis biomas brasileiros e suas dinâmicas principais</desc>
+  <rect width="1600" height="900" fill="#2e8fea"/><circle cx="1450" cy="110" r="220" fill="#ffd934"/><circle cx="150" cy="800" r="220" fill="#ff7096"/>
+  <rect x="70" y="65" width="1460" height="770" rx="48" fill="#f6f0e4" stroke="#111" stroke-width="14"/>
+  <rect x="110" y="105" width="430" height="64" rx="32" fill="#6dd285" stroke="#111" stroke-width="7"/><text x="325" y="149" text-anchor="middle" font-family="Arial,sans-serif" font-size="31" font-weight="900">GEOGRAFIA • ENEM</text>
+  <text x="110" y="270" font-family="Arial,sans-serif" font-size="75" font-weight="900">BIOMAS</text><text x="110" y="350" font-family="Arial,sans-serif" font-size="75" font-weight="900">BRASILEIROS</text>
+  <g font-family="Arial,sans-serif" font-weight="900" text-anchor="middle">
+    <rect x="110" y="420" width="400" height="105" rx="24" fill="#6dd285" stroke="#111" stroke-width="6"/><text x="310" y="485" font-size="31">AMAZÔNIA • ÁGUA</text>
+    <rect x="600" y="420" width="400" height="105" rx="24" fill="#ffd934" stroke="#111" stroke-width="6"/><text x="800" y="485" font-size="31">CERRADO • RAÍZES</text>
+    <rect x="1090" y="420" width="400" height="105" rx="24" fill="#ff7096" stroke="#111" stroke-width="6"/><text x="1290" y="485" font-size="31">CAATINGA • SECA</text>
+    <rect x="110" y="575" width="400" height="105" rx="24" fill="#cfc4ff" stroke="#111" stroke-width="6"/><text x="310" y="640" font-size="28">MATA ATLÂNTICA</text>
+    <rect x="600" y="575" width="400" height="105" rx="24" fill="#2e8fea" stroke="#111" stroke-width="6"/><text x="800" y="640" font-size="31">PANTANAL • CHEIAS</text>
+    <rect x="1090" y="575" width="400" height="105" rx="24" fill="#fff" stroke="#111" stroke-width="6"/><text x="1290" y="640" font-size="31">PAMPA • CAMPOS</text>
+  </g>
+  <text x="110" y="760" font-family="Arial,sans-serif" font-size="32" font-weight="900">CLIMA + VEGETAÇÃO + ÁGUA + USO DA TERRA</text>
+  <text x="110" y="805" font-family="Arial,sans-serif" font-size="25" font-weight="700">Compare relações. Não decore paisagens isoladas.</text>
+</svg>
