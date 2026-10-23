@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Porcentagem no ENEM</title><desc id="desc">Mapa visual de aumentos, descontos e variação percentual</desc>
+  <rect width="1600" height="900" fill="#ffd934"/><circle cx="1450" cy="120" r="225" fill="#ff7096"/><circle cx="130" cy="800" r="215" fill="#2e8fea"/>
+  <rect x="70" y="65" width="1460" height="770" rx="48" fill="#f6f0e4" stroke="#111" stroke-width="14"/>
+  <rect x="110" y="105" width="410" height="64" rx="32" fill="#6dd285" stroke="#111" stroke-width="7"/><text x="315" y="149" text-anchor="middle" font-family="Arial,sans-serif" font-size="31" font-weight="900">MATEMÁTICA • ENEM</text>
+  <text x="110" y="285" font-family="Arial,sans-serif" font-size="86" font-weight="900">PORCENTAGEM</text>
+  <text x="1320" y="300" text-anchor="middle" font-family="Arial,sans-serif" font-size="190" font-weight="900" fill="#2e8fea">%</text>
+  <g font-family="Arial,sans-serif" font-weight="900" text-anchor="middle">
+    <rect x="110" y="420" width="400" height="155" rx="28" fill="#6dd285" stroke="#111" stroke-width="7"/><text x="310" y="485" font-size="37">AUMENTO</text><text x="310" y="535" font-size="31">× (1 + taxa)</text>
+    <rect x="600" y="420" width="400" height="155" rx="28" fill="#ff7096" stroke="#111" stroke-width="7"/><text x="800" y="485" font-size="37">DESCONTO</text><text x="800" y="535" font-size="31">× (1 − taxa)</text>
+    <rect x="1090" y="420" width="400" height="155" rx="28" fill="#cfc4ff" stroke="#111" stroke-width="7"/><text x="1290" y="485" font-size="35">VARIAÇÃO</text><text x="1290" y="535" font-size="29">mudança ÷ inicial</text>
+  </g>
+  <text x="110" y="690" font-family="Arial,sans-serif" font-size="37" font-weight="900">1º BASE • 2º FATOR • 3º RESPOSTA PEDIDA</text>
+  <text x="110" y="770" font-family="Arial,sans-serif" font-size="28" font-weight="700">Taxas iguais podem agir sobre valores diferentes.</text>
+</svg>
