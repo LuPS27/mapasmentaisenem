@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Funções da linguagem no ENEM</title><desc id="desc">Mapa visual que relaciona as funções da linguagem aos elementos da comunicação</desc>
+  <rect width="1600" height="900" fill="#cfc4ff"/><circle cx="1420" cy="100" r="220" fill="#ffd934"/><circle cx="140" cy="810" r="230" fill="#ff7096"/>
+  <rect x="70" y="60" width="1460" height="780" rx="48" fill="#f6f0e4" stroke="#111" stroke-width="14"/>
+  <rect x="110" y="100" width="390" height="64" rx="32" fill="#2e8fea" stroke="#111" stroke-width="7"/><text x="305" y="144" text-anchor="middle" font-family="Arial,sans-serif" font-size="31" font-weight="900" fill="#fff">LINGUAGENS • ENEM</text>
+  <text x="110" y="270" font-family="Arial,sans-serif" font-size="76" font-weight="900">FUNÇÕES DA</text>
+  <text x="110" y="355" font-family="Arial,sans-serif" font-size="76" font-weight="900">LINGUAGEM</text>
+  <g font-family="Arial,sans-serif" font-weight="900" text-anchor="middle">
+    <rect x="110" y="440" width="410" height="115" rx="26" fill="#6dd285" stroke="#111" stroke-width="7"/><text x="315" y="488" font-size="32">QUEM OU O QUÊ</text><text x="315" y="530" font-size="27">ganha destaque?</text>
+    <rect x="595" y="440" width="410" height="115" rx="26" fill="#ffd934" stroke="#111" stroke-width="7"/><text x="800" y="488" font-size="32">QUAL OBJETIVO?</text><text x="800" y="530" font-size="27">informar, agir, criar...</text>
+    <rect x="1080" y="440" width="410" height="115" rx="26" fill="#ff7096" stroke="#111" stroke-width="7"/><text x="1285" y="488" font-size="32">QUAL É A PROVA?</text><text x="1285" y="530" font-size="27">marcas do texto</text>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="29" font-weight="900">
+    <text x="120" y="655">REFERENCIAL • contexto</text><text x="590" y="655">EMOTIVA • emissor</text><text x="1040" y="655">APELATIVA • receptor</text>
+    <text x="120" y="725">FÁTICA • canal</text><text x="590" y="725">METALINGUÍSTICA • código</text><text x="1120" y="725">POÉTICA • mensagem</text>
+  </g>
+  <text x="110" y="795" font-family="Arial,sans-serif" font-size="27" font-weight="700">As funções coexistem: identifique a predominante pelo objetivo.</text>
+</svg>
