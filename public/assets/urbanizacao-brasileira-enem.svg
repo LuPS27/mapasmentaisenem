@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Urbanização brasileira no ENEM</title><desc id="desc">Mapa visual de êxodo rural, metropolização, rede urbana e impactos socioambientais</desc>
+  <rect width="1600" height="900" fill="#6dd285"/><circle cx="1455" cy="100" r="225" fill="#2e8fea"/><circle cx="130" cy="820" r="225" fill="#ffd934"/>
+  <rect x="70" y="60" width="1460" height="780" rx="48" fill="#f6f0e4" stroke="#111" stroke-width="14"/>
+  <rect x="110" y="100" width="470" height="64" rx="32" fill="#ff7096" stroke="#111" stroke-width="7"/><text x="345" y="144" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" font-weight="900">GEOGRAFIA • ENEM</text>
+  <text x="110" y="270" font-family="Arial,sans-serif" font-size="73" font-weight="900">URBANIZAÇÃO</text>
+  <text x="110" y="355" font-family="Arial,sans-serif" font-size="73" font-weight="900">BRASILEIRA</text>
+  <g font-family="Arial,sans-serif" font-weight="900" text-anchor="middle">
+    <rect x="110" y="435" width="410" height="135" rx="28" fill="#ffd934" stroke="#111" stroke-width="7"/><text x="315" y="490" font-size="31">ÊXODO RURAL</text><text x="315" y="535" font-size="26">migrações e trabalho</text>
+    <rect x="595" y="435" width="410" height="135" rx="28" fill="#cfc4ff" stroke="#111" stroke-width="7"/><text x="800" y="490" font-size="31">METROPOLIZAÇÃO</text><text x="800" y="535" font-size="26">fluxos e conurbação</text>
+    <rect x="1080" y="435" width="410" height="135" rx="28" fill="#6dd285" stroke="#111" stroke-width="7"/><text x="1285" y="490" font-size="31">IMPACTOS</text><text x="1285" y="535" font-size="26">sociais e ambientais</text>
+  </g>
+  <g font-family="Arial,sans-serif" font-weight="900">
+    <text x="120" y="665" font-size="38">87,4%</text><text x="260" y="665" font-size="27">da população em áreas urbanas</text>
+    <text x="120" y="725" font-size="38">0,60%</text><text x="260" y="725" font-size="27">da área em morfologias urbanas mapeadas</text>
+  </g>
+  <text x="110" y="795" font-family="Arial,sans-serif" font-size="27" font-weight="700">Bases diferentes: pessoas ≠ superfície territorial.</text>
+</svg>
