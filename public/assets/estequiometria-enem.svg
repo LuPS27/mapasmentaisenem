@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Estequiometria no ENEM</title><desc id="desc">Fluxo visual da equação balanceada até a unidade final</desc>
+  <rect width="1600" height="900" fill="#fff5dc"/>
+  <circle cx="1430" cy="120" r="170" fill="#9fe8d8"/><circle cx="160" cy="780" r="210" fill="#ffb45e" opacity=".8"/>
+  <path d="M80 110h1180" stroke="#202020" stroke-width="9" stroke-linecap="round"/>
+  <text x="80" y="90" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#202020">MAPAS DO ENEM • QUÍMICA</text>
+  <text x="80" y="230" font-family="Arial,sans-serif" font-size="92" font-weight="900" fill="#202020">ESTEQUIOMETRIA</text>
+  <text x="84" y="298" font-family="Arial,sans-serif" font-size="44" font-weight="700" fill="#e94747">A PONTE PASSA PELO MOL</text>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <g transform="translate(90 390)"><rect width="300" height="190" rx="32" fill="#6f5bd3"/><text x="150" y="72" font-size="31" font-weight="800" fill="white">1. EQUAÇÃO</text><text x="150" y="122" font-size="27" fill="white">balanceie</text><text x="150" y="160" font-size="24" fill="#fff5dc">2H₂ + O₂ → 2H₂O</text></g>
+    <text x="430" y="500" font-size="62" font-weight="900" fill="#202020">→</text>
+    <g transform="translate(480 390)"><rect width="300" height="190" rx="32" fill="#ff6b5f"/><text x="150" y="72" font-size="31" font-weight="800" fill="white">2. MOL</text><text x="150" y="122" font-size="27" fill="white">converta o dado</text><text x="150" y="160" font-size="24" fill="#fff5dc">n = m ÷ M</text></g>
+    <text x="820" y="500" font-size="62" font-weight="900" fill="#202020">→</text>
+    <g transform="translate(870 390)"><rect width="300" height="190" rx="32" fill="#147d72"/><text x="150" y="72" font-size="31" font-weight="800" fill="white">3. PROPORÇÃO</text><text x="150" y="122" font-size="27" fill="white">use coeficientes</text><text x="150" y="160" font-size="24" fill="#fff5dc">2 : 1 : 2</text></g>
+    <text x="1210" y="500" font-size="62" font-weight="900" fill="#202020">→</text>
+    <g transform="translate(1260 390)"><rect width="250" height="190" rx="32" fill="#f2c230"/><text x="125" y="70" font-size="28" font-weight="800" fill="#202020">4. RESPOSTA</text><text x="125" y="119" font-size="25" fill="#202020">converta</text><text x="125" y="159" font-size="22" fill="#202020">g • L • partículas</text></g>
+  </g>
+  <rect x="360" y="665" width="880" height="120" rx="60" fill="#202020"/>
+  <text x="800" y="720" font-family="Arial,sans-serif" font-size="34" text-anchor="middle" font-weight="700" fill="white">DADO → MOL → MOL PROCURADO → UNIDADE FINAL</text>
+  <text x="800" y="760" font-family="Arial,sans-serif" font-size="24" text-anchor="middle" fill="#9fe8d8">Confira balanceamento, unidade, pureza, rendimento e limitante.</text>
+</svg>
