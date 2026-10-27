@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Como administrar o tempo no ENEM</title>
+  <desc id="desc">Estratégia visual em blocos para questões, redação, revisão e cartão-resposta.</desc>
+  <rect width="1600" height="900" rx="48" fill="#f7f0df"/>
+  <circle cx="1470" cy="115" r="205" fill="#ff6f91"/>
+  <circle cx="125" cy="805" r="205" fill="#6dd28b"/>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#111">
+    <text x="84" y="100" font-size="34" font-weight="900" letter-spacing="4">ESTRATÉGIA DE PROVA • ENEM 2026</text>
+    <text x="84" y="224" font-size="91" font-weight="900">CONTROLE O TEMPO</text>
+    <text x="88" y="298" font-size="45" font-weight="800">SEM CORRER NO FINAL</text>
+  </g>
+  <g transform="translate(100 355)" stroke="#111" stroke-width="9">
+    <rect x="0" y="0" width="320" height="218" rx="28" fill="#ffd83d"/>
+    <rect x="360" y="0" width="320" height="218" rx="28" fill="#75b7ff"/>
+    <rect x="720" y="0" width="320" height="218" rx="28" fill="#c9bcff"/>
+    <rect x="1080" y="0" width="320" height="218" rx="28" fill="#ff876e"/>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#111" text-anchor="middle" font-weight="900">
+    <text x="260" y="422" font-size="31">1ª PASSAGEM</text><text x="260" y="486" font-size="42">QUESTÕES</text><text x="260" y="534" font-size="42">ACESSÍVEIS</text>
+    <text x="620" y="422" font-size="31">2ª PASSAGEM</text><text x="620" y="486" font-size="42">RETOME AS</text><text x="620" y="534" font-size="42">POSSÍVEIS</text>
+    <text x="980" y="422" font-size="31">1º DIA</text><text x="980" y="486" font-size="42">PROTEJA A</text><text x="980" y="534" font-size="42">REDAÇÃO</text>
+    <text x="1340" y="422" font-size="31">FINAL</text><text x="1340" y="486" font-size="40">CARTÃO +</text><text x="1340" y="534" font-size="40">CONFERÊNCIA</text>
+  </g>
+  <g stroke="#111" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="250" cy="720" r="92" fill="#fff"/>
+    <path d="M250 720V653M250 720l57 28"/>
+    <path d="M390 720h930"/>
+    <path d="M1250 664l75 56-75 56"/>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#111" font-weight="900">
+    <text x="435" y="694" font-size="37">MARQUE • AVANCE • VOLTE</text>
+    <text x="435" y="752" font-size="29">PONTOS DE CONTROLE REDUZEM A CORRIDA FINAL</text>
+    <text x="435" y="808" font-size="25">TESTE O MÉTODO EM SIMULADOS E AJUSTE AO SEU RITMO.</text>
+  </g>
+</svg>
