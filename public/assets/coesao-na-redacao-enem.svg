@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Coesão na redação do ENEM</title>
+  <desc id="desc">Mapa visual ligando ideia, relação lógica, conectivo e progressão textual na Competência IV.</desc>
+  <rect width="1600" height="900" rx="48" fill="#f7efd9"/>
+  <circle cx="1475" cy="110" r="220" fill="#ff6d8e"/>
+  <circle cx="105" cy="815" r="190" fill="#69ce8a"/>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#111">
+    <text x="82" y="100" font-size="34" font-weight="900" letter-spacing="4">REDAÇÃO • COMPETÊNCIA IV</text>
+    <text x="82" y="225" font-size="92" font-weight="900">COESÃO NO ENEM</text>
+    <text x="86" y="300" font-size="42" font-weight="800">CONECTIVOS COM SENTIDO</text>
+  </g>
+  <g transform="translate(80 370)" stroke="#111" stroke-width="9">
+    <rect x="0" y="0" width="320" height="180" rx="28" fill="#ffd83e"/>
+    <rect x="375" y="0" width="320" height="180" rx="28" fill="#75b7ff"/>
+    <rect x="750" y="0" width="320" height="180" rx="28" fill="#cbbfff"/>
+    <rect x="1125" y="0" width="320" height="180" rx="28" fill="#ff9e69"/>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#111" text-anchor="middle" font-weight="900">
+    <text x="240" y="475" font-size="45">IDEIA</text>
+    <text x="615" y="450" font-size="36">RELAÇÃO</text><text x="615" y="500" font-size="36">LÓGICA</text>
+    <text x="990" y="475" font-size="39">CONECTIVO</text>
+    <text x="1365" y="450" font-size="35">PROGRESSÃO</text><text x="1365" y="500" font-size="35">TEXTUAL</text>
+  </g>
+  <g stroke="#111" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M400 460h65"/><path d="M440 425l35 35-35 35"/>
+    <path d="M775 460h65"/><path d="M815 425l35 35-35 35"/>
+    <path d="M1150 460h65"/><path d="M1190 425l35 35-35 35"/>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#111" font-weight="900">
+    <text x="190" y="690" font-size="42">CAUSA • CONTRASTE • EXEMPLO • CONSEQUÊNCIA</text>
+    <text x="350" y="770" font-size="36">LIGUE O RACIOCÍNIO. NÃO COLE FRASES PRONTAS.</text>
+  </g>
+</svg>
+
+
