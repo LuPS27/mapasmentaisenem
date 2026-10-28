@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Era Vargas no ENEM</title>
+  <desc id="desc">Mapa visual das fases da Era Vargas e das relações entre trabalho, indústria, propaganda e autoritarismo.</desc>
+  <rect width="1600" height="900" rx="48" fill="#f5eddd"/>
+  <circle cx="1480" cy="115" r="215" fill="#ff6d8e"/>
+  <circle cx="120" cy="810" r="205" fill="#69ce8a"/>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#111">
+    <text x="82" y="100" font-size="34" font-weight="900" letter-spacing="4">HISTÓRIA DO BRASIL • CIÊNCIAS HUMANAS</text>
+    <text x="82" y="225" font-size="98" font-weight="900">ERA VARGAS</text>
+    <text x="86" y="300" font-size="44" font-weight="800">FASES • TRABALHO • PROPAGANDA</text>
+  </g>
+  <g transform="translate(95 365)" stroke="#111" stroke-width="9">
+    <rect x="0" y="0" width="430" height="195" rx="28" fill="#ffd83e"/>
+    <rect x="485" y="0" width="430" height="195" rx="28" fill="#75b7ff"/>
+    <rect x="970" y="0" width="430" height="195" rx="28" fill="#cbbfff"/>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#111" text-anchor="middle" font-weight="900">
+    <text x="310" y="430" font-size="31">1930–1934</text><text x="310" y="488" font-size="40">GOVERNO</text><text x="310" y="535" font-size="40">PROVISÓRIO</text>
+    <text x="795" y="430" font-size="31">1934–1937</text><text x="795" y="488" font-size="40">GOVERNO</text><text x="795" y="535" font-size="40">CONSTITUCIONAL</text>
+    <text x="1280" y="430" font-size="31">1937–1945</text><text x="1280" y="488" font-size="40">ESTADO</text><text x="1280" y="535" font-size="40">NOVO</text>
+  </g>
+  <g stroke="#111" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M230 690h1110"/>
+    <path d="M1270 635l75 55-75 55"/>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#111" font-weight="900">
+    <text x="275" y="664" font-size="34">DIREITOS + CONTROLE</text>
+    <text x="275" y="721" font-size="32">INDÚSTRIA + ESTADO INTERVENTOR</text>
+    <text x="275" y="778" font-size="30">PROPAGANDA + CENSURA + AUTORITARISMO</text>
+    <text x="275" y="828" font-size="24">ENTENDA AS RELAÇÕES. NÃO DECORE FATOS ISOLADOS.</text>
+  </g>
+</svg>
