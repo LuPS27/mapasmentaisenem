@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Sociologia no ENEM</title>
+  <desc id="desc">Mapa visual conectando cultura, trabalho, cidadania e desigualdade</desc>
+  <rect width="1600" height="900" fill="#fff7e8"/>
+  <circle cx="1450" cy="80" r="230" fill="#ffcb47"/>
+  <circle cx="90" cy="820" r="250" fill="#64d8cb"/>
+  <path d="M0 210 C330 110 550 300 850 190 S1300 90 1600 230" fill="none" stroke="#2b2150" stroke-width="18" opacity=".12"/>
+  <text x="110" y="130" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#6a35c7">MAPAS DO ENEM • CIÊNCIAS HUMANAS</text>
+  <text x="110" y="235" font-family="Arial, sans-serif" font-size="92" font-weight="900" fill="#241845">SOCIOLOGIA</text>
+  <text x="110" y="305" font-family="Arial, sans-serif" font-size="43" font-weight="700" fill="#241845">conceitos para interpretar a sociedade</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="110" y="395" rx="34" width="610" height="155" fill="#ff6b6b"/>
+    <text x="155" y="458" font-size="38" font-weight="900" fill="#241845">CULTURA</text>
+    <text x="155" y="510" font-size="28" font-weight="600" fill="#241845">significados • normas • identidades</text>
+    <rect x="880" y="395" rx="34" width="610" height="155" fill="#ffcb47"/>
+    <text x="925" y="458" font-size="38" font-weight="900" fill="#241845">TRABALHO</text>
+    <text x="925" y="510" font-size="28" font-weight="600" fill="#241845">produção • controle • tecnologia</text>
+    <rect x="110" y="620" rx="34" width="610" height="155" fill="#64d8cb"/>
+    <text x="155" y="683" font-size="38" font-weight="900" fill="#241845">CIDADANIA</text>
+    <text x="155" y="735" font-size="28" font-weight="600" fill="#241845">direitos • participação • movimentos</text>
+    <rect x="880" y="620" rx="34" width="610" height="155" fill="#9c7cff"/>
+    <text x="925" y="683" font-size="38" font-weight="900" fill="#241845">DESIGUALDADE</text>
+    <text x="925" y="735" font-size="28" font-weight="600" fill="#241845">recursos • oportunidades • poder</text>
+  </g>
+  <path d="M755 470 L845 470" stroke="#241845" stroke-width="12" stroke-linecap="round"/>
+  <path d="M825 448 L850 470 L825 492" fill="none" stroke="#241845" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M755 700 L845 700" stroke="#241845" stroke-width="12" stroke-linecap="round"/>
+  <path d="M825 678 L850 700 L825 722" fill="none" stroke="#241845" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="800" y="845" text-anchor="middle" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#241845">INDIVÍDUO ↔ INSTITUIÇÕES ↔ SOCIEDADE</text>
+</svg>
