@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Gêneros textuais no ENEM</title>
+  <desc id="desc">Mapa visual conectando finalidade, interlocutores, suporte e recursos</desc>
+  <rect width="1600" height="900" fill="#fff7e8"/>
+  <circle cx="1470" cy="75" r="230" fill="#ffcb47"/>
+  <circle cx="75" cy="835" r="245" fill="#64d8cb"/>
+  <path d="M0 210 C320 105 570 305 860 185 S1320 100 1600 235" fill="none" stroke="#241845" stroke-width="18" opacity=".12"/>
+  <text x="110" y="130" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#6a35c7">MAPAS DO ENEM • LINGUAGENS</text>
+  <text x="110" y="235" font-family="Arial, sans-serif" font-size="86" font-weight="900" fill="#241845">GÊNEROS TEXTUAIS</text>
+  <text x="110" y="305" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#241845">o que o texto faz nesta situação?</text>
+  <g font-family="Arial, sans-serif" fill="#241845">
+    <rect x="110" y="395" width="610" height="170" rx="35" fill="#ff6b6b"/>
+    <text x="155" y="460" font-size="38" font-weight="900">FINALIDADE</text>
+    <text x="155" y="515" font-size="29" font-weight="700">informar • orientar • convencer</text>
+    <rect x="880" y="395" width="610" height="170" rx="35" fill="#64d8cb"/>
+    <text x="925" y="460" font-size="38" font-weight="900">INTERLOCUTORES</text>
+    <text x="925" y="515" font-size="29" font-weight="700">quem fala • para quem</text>
+    <rect x="110" y="630" width="610" height="170" rx="35" fill="#ffcb47"/>
+    <text x="155" y="695" font-size="38" font-weight="900">SUPORTE</text>
+    <text x="155" y="750" font-size="29" font-weight="700">onde circula • quais limites</text>
+    <rect x="880" y="630" width="610" height="170" rx="35" fill="#9c7cff"/>
+    <text x="925" y="695" font-size="38" font-weight="900">RECURSOS</text>
+    <text x="925" y="750" font-size="29" font-weight="700">palavra • imagem • organização</text>
+  </g>
+  <path d="M770 480 C820 430 845 430 870 480 M770 715 C820 765 845 765 870 715" fill="none" stroke="#241845" stroke-width="12" stroke-linecap="round"/>
+</svg>
