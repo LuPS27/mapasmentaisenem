@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Filosofia no ENEM</title>
+  <desc id="desc">Mapa visual conectando problema, tese, conceito e argumento em Filosofia.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#172554"/><stop offset="1" stop-color="#0f766e"/></linearGradient><filter id="sh"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-opacity=".24"/></filter></defs>
+  <rect width="1600" height="900" rx="46" fill="url(#bg)"/>
+  <circle cx="1390" cy="140" r="220" fill="#2dd4bf" opacity=".16"/><circle cx="130" cy="820" r="250" fill="#60a5fa" opacity=".13"/>
+  <text x="100" y="120" fill="#99f6e4" font-family="Arial,sans-serif" font-size="36" font-weight="700">CIÊNCIAS HUMANAS • MAPA DE REVISÃO</text>
+  <text x="100" y="240" fill="white" font-family="Arial,sans-serif" font-size="94" font-weight="900">FILOSOFIA</text>
+  <text x="100" y="315" fill="#dbeafe" font-family="Arial,sans-serif" font-size="42">ética • política • conhecimento</text>
+  <g filter="url(#sh)" font-family="Arial,sans-serif"><rect x="100" y="430" width="310" height="150" rx="30" fill="white"/><text x="165" y="520" fill="#1e3a8a" font-size="36" font-weight="900">PROBLEMA</text><rect x="470" y="430" width="270" height="150" rx="30" fill="white"/><text x="540" y="520" fill="#0f766e" font-size="36" font-weight="900">TESE</text><rect x="800" y="430" width="310" height="150" rx="30" fill="white"/><text x="850" y="520" fill="#1d4ed8" font-size="36" font-weight="900">CONCEITO</text><rect x="1170" y="430" width="330" height="150" rx="30" fill="white"/><text x="1215" y="520" fill="#115e59" font-size="36" font-weight="900">ARGUMENTO</text></g>
+  <path d="M420 505 H455 M750 505 H785 M1120 505 H1155" stroke="#facc15" stroke-width="13" stroke-linecap="round"/><path d="M445 485 L465 505 L445 525 M775 485 L795 505 L775 525 M1145 485 L1165 505 L1145 525" fill="none" stroke="#facc15" stroke-width="9"/>
+  <g filter="url(#sh)"><rect x="310" y="675" width="980" height="110" rx="32" fill="#f0fdfa"/><text x="405" y="745" fill="#134e4a" font-family="Arial,sans-serif" font-size="38" font-weight="900">LEIA A RELAÇÃO, NÃO APENAS O NOME</text></g>
+  <text x="100" y="850" fill="white" font-family="Arial,sans-serif" font-size="29" font-weight="700">Mapas do ENEM • autores respondem a problemas</text>
+</svg>
