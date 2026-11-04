@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Funções no ENEM</title>
+  <desc id="desc">Mapa visual conectando situação, variáveis, regra e gráfico.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#312e81"/><stop offset="1" stop-color="#0891b2"/></linearGradient><filter id="sh"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-opacity=".25"/></filter></defs>
+  <rect width="1600" height="900" rx="46" fill="url(#bg)"/>
+  <circle cx="1390" cy="120" r="230" fill="#facc15" opacity=".17"/><circle cx="140" cy="840" r="270" fill="#a7f3d0" opacity=".12"/>
+  <text x="100" y="120" fill="#fde68a" font-family="Arial,sans-serif" font-size="36" font-weight="700">MATEMÁTICA • MAPA DE REVISÃO</text>
+  <text x="100" y="235" fill="white" font-family="Arial,sans-serif" font-size="92" font-weight="900">FUNÇÕES</text>
+  <text x="100" y="310" fill="#cffafe" font-family="Arial,sans-serif" font-size="42">gráficos • taxas • modelos</text>
+  <g filter="url(#sh)" font-family="Arial,sans-serif"><rect x="80" y="430" width="320" height="150" rx="30" fill="white"/><text x="125" y="520" fill="#4338ca" font-size="34" font-weight="900">SITUAÇÃO</text><rect x="465" y="430" width="300" height="150" rx="30" fill="white"/><text x="505" y="520" fill="#0369a1" font-size="34" font-weight="900">VARIÁVEIS</text><rect x="830" y="430" width="300" height="150" rx="30" fill="white"/><text x="895" y="520" fill="#6d28d9" font-size="34" font-weight="900">REGRA</text><rect x="1195" y="430" width="325" height="150" rx="30" fill="white"/><text x="1250" y="520" fill="#0e7490" font-size="34" font-weight="900">GRÁFICO</text></g>
+  <path d="M410 505 H450 M775 505 H815 M1140 505 H1180" stroke="#facc15" stroke-width="13" stroke-linecap="round"/><path d="M440 485 L460 505 L440 525 M805 485 L825 505 L805 525 M1170 485 L1190 505 L1170 525" fill="none" stroke="#facc15" stroke-width="9"/>
+  <g filter="url(#sh)"><rect x="260" y="680" width="1080" height="112" rx="32" fill="#ecfeff"/><text x="365" y="753" fill="#164e63" font-family="Arial,sans-serif" font-size="40" font-weight="900">ENTRADA → MUDANÇA → SAÍDA</text></g>
+  <text x="100" y="850" fill="white" font-family="Arial,sans-serif" font-size="29" font-weight="700">Mapas do ENEM • leia a relação antes de calcular</text>
+</svg>
