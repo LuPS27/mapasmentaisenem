@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Artes no ENEM</title>
+  <desc id="desc">Mapa visual conectando forma, técnica, contexto e sentido.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#581c87"/><stop offset="1" stop-color="#be123c"/></linearGradient><filter id="sh"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-opacity=".25"/></filter></defs>
+  <rect width="1600" height="900" rx="46" fill="url(#bg)"/>
+  <circle cx="1390" cy="130" r="230" fill="#facc15" opacity=".18"/><circle cx="150" cy="820" r="270" fill="#f0abfc" opacity=".14"/>
+  <text x="100" y="120" fill="#fde68a" font-family="Arial,sans-serif" font-size="36" font-weight="700">LINGUAGENS • MAPA DE REVISÃO</text>
+  <text x="100" y="235" fill="white" font-family="Arial,sans-serif" font-size="94" font-weight="900">ARTES</text>
+  <text x="100" y="310" fill="#fae8ff" font-family="Arial,sans-serif" font-size="42">observar • relacionar • interpretar</text>
+  <g filter="url(#sh)" font-family="Arial,sans-serif"><rect x="80" y="430" width="320" height="150" rx="30" fill="white"/><text x="170" y="520" fill="#7e22ce" font-size="36" font-weight="900">FORMA</text><rect x="465" y="430" width="300" height="150" rx="30" fill="white"/><text x="515" y="520" fill="#be123c" font-size="36" font-weight="900">TÉCNICA</text><rect x="830" y="430" width="300" height="150" rx="30" fill="white"/><text x="870" y="520" fill="#9333ea" font-size="34" font-weight="900">CONTEXTO</text><rect x="1195" y="430" width="325" height="150" rx="30" fill="white"/><text x="1265" y="520" fill="#9f1239" font-size="34" font-weight="900">SENTIDO</text></g>
+  <path d="M410 505 H450 M775 505 H815 M1140 505 H1180" stroke="#facc15" stroke-width="13" stroke-linecap="round"/><path d="M440 485 L460 505 L440 525 M805 485 L825 505 L805 525 M1170 485 L1190 505 L1170 525" fill="none" stroke="#facc15" stroke-width="9"/>
+  <g filter="url(#sh)"><rect x="260" y="680" width="1080" height="112" rx="32" fill="#fdf4ff"/><text x="355" y="753" fill="#701a75" font-family="Arial,sans-serif" font-size="39" font-weight="900">DESCRIÇÃO → EVIDÊNCIA → LEITURA</text></g>
+  <text x="100" y="850" fill="white" font-family="Arial,sans-serif" font-size="29" font-weight="700">Mapas do ENEM • interprete com base na obra</text>
+</svg>
