@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Soluções no ENEM</title>
+  <desc id="desc">Mapa visual ligando concentração, diluição, mistura e solubilidade</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4fff7"/><stop offset="1" stop-color="#e2efff"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-opacity=".14"/></filter>
+  </defs>
+  <rect width="1600" height="900" rx="46" fill="url(#bg)"/>
+  <circle cx="1400" cy="120" r="170" fill="#ffcf56" opacity=".35"/>
+  <circle cx="130" cy="760" r="220" fill="#42d6a4" opacity=".18"/>
+  <g fill="none" stroke="#17324d" stroke-width="8" stroke-linecap="round" opacity=".3">
+    <path d="M800 425C650 380 570 295 420 255"/><path d="M800 425C950 365 1040 290 1190 250"/>
+    <path d="M800 425C650 510 585 610 430 680"/><path d="M800 425C950 505 1030 610 1190 680"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="545" y="300" width="510" height="250" rx="42" fill="#17324d"/>
+    <text x="800" y="390" text-anchor="middle" fill="#ffcf56" font-family="Arial,sans-serif" font-size="44" font-weight="800">SOLUÇÕES NO ENEM</text>
+    <text x="800" y="460" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="32">siga a quantidade de soluto</text>
+    <text x="800" y="510" text-anchor="middle" fill="#b9d9ff" font-family="Arial,sans-serif" font-size="25">unidade • processo • conservação</text>
+  </g>
+  <g font-family="Arial,sans-serif" text-anchor="middle" filter="url(#shadow)">
+    <rect x="170" y="120" width="410" height="220" rx="34" fill="#ff6b6b"/><text x="375" y="205" fill="white" font-size="37" font-weight="800">CONCENTRAÇÃO</text><text x="375" y="265" fill="white" font-size="28">g/L • mol/L • % • ppm</text>
+    <rect x="1020" y="120" width="410" height="220" rx="34" fill="#4776e6"/><text x="1225" y="205" fill="white" font-size="37" font-weight="800">DILUIÇÃO</text><text x="1225" y="265" fill="white" font-size="28">C₁V₁ = C₂V₂</text>
+    <rect x="170" y="585" width="410" height="220" rx="34" fill="#20b486"/><text x="375" y="670" fill="white" font-size="37" font-weight="800">MISTURA</text><text x="375" y="730" fill="white" font-size="28">some o soluto</text>
+    <rect x="1020" y="585" width="410" height="220" rx="34" fill="#8b5cf6"/><text x="1225" y="670" fill="white" font-size="37" font-weight="800">SOLUBILIDADE</text><text x="1225" y="730" fill="white" font-size="28">temperatura • saturação</text>
+  </g>
+  <g fill="#17324d" font-family="Arial,sans-serif" font-weight="700">
+    <text x="75" y="80" font-size="28">MAPAS MENTAIS ENEM</text>
+    <text x="1325" y="855" font-size="24">Química sem fórmula solta</text>
+  </g>
+</svg>
