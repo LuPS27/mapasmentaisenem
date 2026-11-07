@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Sistema imunológico no ENEM</title>
+  <desc id="desc">Mapa visual com imunidade inata, adaptativa, anticorpos e memória imunológica.</desc>
+  <rect width="1600" height="900" fill="#eefbf6"/>
+  <path d="M0 0h1600v145H0z" fill="#173d50"/>
+  <circle cx="1450" cy="65" r="175" fill="#ffd45a"/>
+  <circle cx="95" cy="820" r="180" fill="#ff7b86"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="80" y="92" font-size="40" font-weight="700" fill="#fff">MAPAS DO ENEM • BIOLOGIA</text>
+    <text x="85" y="255" font-size="78" font-weight="900" fill="#173d50">SISTEMA IMUNOLÓGICO</text>
+    <text x="90" y="320" font-size="34" font-weight="700" fill="#3f6573">reconhecer • responder • lembrar</text>
+    <g transform="translate(85 390)">
+      <rect width="420" height="295" rx="34" fill="#66d6bf" stroke="#173d50" stroke-width="8"/>
+      <text x="35" y="64" font-size="34" font-weight="900" fill="#173d50">IMUNIDADE INATA</text>
+      <text x="35" y="120" font-size="28" font-weight="700" fill="#173d50">RESPOSTA RÁPIDA</text>
+      <path d="M72 170c40-38 88-38 128 0v72c-40 38-88 38-128 0z" fill="#fff" stroke="#173d50" stroke-width="7"/>
+      <circle cx="136" cy="206" r="24" fill="#ff7b86"/>
+      <text x="235" y="190" font-size="25" font-weight="700" fill="#173d50">barreiras</text>
+      <text x="235" y="230" font-size="25" font-weight="700" fill="#173d50">fagocitose</text>
+      <text x="235" y="270" font-size="25" font-weight="700" fill="#173d50">inflamação</text>
+    </g>
+    <path d="M535 535h100" fill="none" stroke="#173d50" stroke-width="13" stroke-linecap="round"/>
+    <path d="m605 500 38 35-38 35" fill="none" stroke="#173d50" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(670 390)">
+      <rect width="430" height="295" rx="34" fill="#ffd45a" stroke="#173d50" stroke-width="8"/>
+      <text x="35" y="64" font-size="34" font-weight="900" fill="#173d50">IMUNIDADE ADAPTATIVA</text>
+      <text x="35" y="120" font-size="28" font-weight="700" fill="#173d50">RESPOSTA ESPECÍFICA</text>
+      <g transform="translate(55 155)" fill="none" stroke="#173d50" stroke-width="12" stroke-linecap="round">
+        <path d="M40 0v95M40 35 0 0M40 35 80 0"/>
+        <path d="M160 0v95M160 35 120 0M160 35 200 0"/>
+      </g>
+      <text x="290" y="188" font-size="25" font-weight="700" fill="#173d50">linfócitos</text>
+      <text x="290" y="228" font-size="25" font-weight="700" fill="#173d50">anticorpos</text>
+      <text x="290" y="268" font-size="25" font-weight="700" fill="#173d50">memória</text>
+    </g>
+    <path d="M1130 535h100" fill="none" stroke="#173d50" stroke-width="13" stroke-linecap="round"/>
+    <path d="m1200 500 38 35-38 35" fill="none" stroke="#173d50" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(1260 390)">
+      <rect width="265" height="295" rx="34" fill="#ff8f99" stroke="#173d50" stroke-width="8"/>
+      <text x="34" y="64" font-size="31" font-weight="900" fill="#173d50">PROTEÇÃO</text>
+      <path d="M132 105 205 140v55c0 55-31 86-73 105-42-19-73-50-73-105v-55z" fill="#fff" stroke="#173d50" stroke-width="7"/>
+      <path d="m97 196 25 25 49-62" fill="none" stroke="#66bfae" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <rect x="425" y="750" width="750" height="92" rx="46" fill="#173d50"/>
+    <text x="520" y="810" font-size="37" font-weight="800" fill="#fff">ANTÍGENO → RESPOSTA → MEMÓRIA</text>
+  </g>
+</svg>
