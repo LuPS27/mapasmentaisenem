@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Probabilidade no ENEM</title>
+  <desc id="desc">Mapa visual com espaço amostral, eventos, complemento e árvore de possibilidades.</desc>
+  <rect width="1600" height="900" fill="#fff8df"/>
+  <path d="M0 0h1600v140H0z" fill="#19224d"/>
+  <circle cx="1460" cy="70" r="170" fill="#ffcc31" opacity=".95"/>
+  <circle cx="90" cy="820" r="170" fill="#ff5c73" opacity=".95"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="85" y="90" font-size="40" font-weight="700" fill="#fff">MAPAS DO ENEM • MATEMÁTICA</text>
+    <text x="90" y="260" font-size="92" font-weight="900" fill="#19224d">PROBABILIDADE</text>
+    <text x="94" y="325" font-size="34" font-weight="700" fill="#4b5279">organize os casos antes da conta</text>
+    <g transform="translate(90 390)">
+      <rect width="400" height="275" rx="30" fill="#5ad4c6" stroke="#19224d" stroke-width="7"/>
+      <text x="35" y="66" font-size="32" font-weight="900" fill="#19224d">1. ESPAÇO AMOSTRAL</text>
+      <text x="35" y="125" font-size="27" fill="#19224d">todos os resultados</text>
+      <g transform="translate(55 160)" fill="#fff" stroke="#19224d" stroke-width="5">
+        <rect width="70" height="70" rx="14"/><rect x="100" width="70" height="70" rx="14"/><rect x="200" width="70" height="70" rx="14"/>
+      </g>
+      <g font-size="34" font-weight="900" fill="#19224d"><text x="78" y="209">1</text><text x="178" y="209">2</text><text x="278" y="209">3</text></g>
+    </g>
+    <path d="M520 525h95" fill="none" stroke="#19224d" stroke-width="12" stroke-linecap="round"/><path d="m585 495 35 30-35 30" fill="none" stroke="#19224d" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(650 390)">
+      <rect width="370" height="275" rx="30" fill="#ffcc31" stroke="#19224d" stroke-width="7"/>
+      <text x="35" y="66" font-size="32" font-weight="900" fill="#19224d">2. EVENTO</text>
+      <text x="35" y="125" font-size="27" fill="#19224d">casos favoráveis</text>
+      <circle cx="132" cy="194" r="54" fill="#fff" stroke="#19224d" stroke-width="6"/>
+      <text x="112" y="207" font-size="38" font-weight="900" fill="#19224d">A</text>
+      <text x="210" y="205" font-size="30" font-weight="800" fill="#19224d">ou  não A</text>
+    </g>
+    <path d="M1050 525h95" fill="none" stroke="#19224d" stroke-width="12" stroke-linecap="round"/><path d="m1115 495 35 30-35 30" fill="none" stroke="#19224d" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(1180 390)">
+      <rect width="330" height="275" rx="30" fill="#ff7c91" stroke="#19224d" stroke-width="7"/>
+      <text x="34" y="66" font-size="32" font-weight="900" fill="#19224d">3. PROPORÇÃO</text>
+      <text x="34" y="130" font-size="25" font-weight="700" fill="#19224d">favoráveis</text>
+      <path d="M35 154h255" stroke="#19224d" stroke-width="5"/>
+      <text x="34" y="202" font-size="25" font-weight="700" fill="#19224d">possíveis</text>
+      <text x="218" y="190" font-size="50" font-weight="900" fill="#fff">P(A)</text>
+    </g>
+    <rect x="430" y="735" width="740" height="95" rx="47" fill="#19224d"/>
+    <text x="530" y="798" font-size="38" font-weight="800" fill="#fff">LISTE • CONTE • CONFIRA</text>
+  </g>
+</svg>
