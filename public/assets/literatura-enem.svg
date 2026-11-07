@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Literatura no ENEM</title>
+  <desc id="desc">Mapa visual conectando voz, forma, contexto e efeitos de sentido</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff5e8"/><stop offset="1" stop-color="#eee8ff"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-opacity=".15"/></filter>
+  </defs>
+  <rect width="1600" height="900" rx="46" fill="url(#bg)"/>
+  <circle cx="1450" cy="90" r="210" fill="#ffca57" opacity=".3"/>
+  <circle cx="90" cy="810" r="220" fill="#9b72e8" opacity=".17"/>
+  <text x="76" y="82" fill="#25304b" font-family="Arial,sans-serif" font-size="28" font-weight="800">MAPAS MENTAIS ENEM • LINGUAGENS</text>
+  <g filter="url(#shadow)">
+    <rect x="455" y="285" width="690" height="300" rx="48" fill="#25304b"/>
+    <text x="800" y="400" text-anchor="middle" fill="#ffca57" font-family="Arial,sans-serif" font-size="56" font-weight="900">LITERATURA NO ENEM</text>
+    <text x="800" y="475" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="34">como o texto produz sentido?</text>
+    <text x="800" y="530" text-anchor="middle" fill="#d8d2ff" font-family="Arial,sans-serif" font-size="25">leia • relacione • comprove</text>
+  </g>
+  <g fill="none" stroke="#25304b" stroke-width="8" stroke-linecap="round" opacity=".32">
+    <path d="M455 360C360 320 320 260 260 220"/><path d="M1145 360C1240 320 1280 260 1340 220"/>
+    <path d="M455 515C350 570 320 650 260 710"/><path d="M1145 515C1250 570 1280 650 1340 710"/>
+  </g>
+  <g font-family="Arial,sans-serif" text-anchor="middle" filter="url(#shadow)">
+    <rect x="110" y="125" width="350" height="190" rx="34" fill="#ef6a67"/><text x="285" y="205" fill="white" font-size="40" font-weight="800">VOZ</text><text x="285" y="258" fill="white" font-size="27">eu lírico • narrador</text>
+    <rect x="1140" y="125" width="350" height="190" rx="34" fill="#4776e6"/><text x="1315" y="205" fill="white" font-size="40" font-weight="800">FORMA</text><text x="1315" y="258" fill="white" font-size="27">ritmo • imagem • foco</text>
+    <rect x="110" y="610" width="350" height="190" rx="34" fill="#20a884"/><text x="285" y="690" fill="white" font-size="40" font-weight="800">CONTEXTO</text><text x="285" y="743" fill="white" font-size="27">história • identidade</text>
+    <rect x="1140" y="610" width="350" height="190" rx="34" fill="#9b72e8"/><text x="1315" y="690" fill="white" font-size="40" font-weight="800">EFEITO</text><text x="1315" y="743" fill="white" font-size="27">crítica • emoção • humor</text>
+  </g>
+  <text x="800" y="855" text-anchor="middle" fill="#25304b" font-family="Arial,sans-serif" font-size="26" font-weight="700">Evidência no texto antes do rótulo decorado</text>
+</svg>
