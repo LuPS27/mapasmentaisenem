@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Cartografia no ENEM</title>
+  <desc id="desc">Mapa visual com escala, coordenadas, projeções e legenda cartográfica.</desc>
+  <rect width="1600" height="900" fill="#f3f0df"/>
+  <path d="M0 0h1600v145H0z" fill="#18354a"/>
+  <circle cx="1460" cy="70" r="180" fill="#ffca3a"/>
+  <path d="M0 705c210-70 350 100 560 38s340-15 520 55 330 25 520-40v142H0z" fill="#6fd0bd"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="80" y="92" font-size="40" font-weight="700" fill="#fff">MAPAS DO ENEM • GEOGRAFIA</text>
+    <text x="85" y="258" font-size="92" font-weight="900" fill="#18354a">CARTOGRAFIA</text>
+    <text x="90" y="325" font-size="34" font-weight="700" fill="#496578">ler o espaço é interpretar escolhas</text>
+    <g transform="translate(85 385)">
+      <rect width="430" height="270" rx="32" fill="#ffcc48" stroke="#18354a" stroke-width="8"/>
+      <text x="34" y="60" font-size="34" font-weight="900" fill="#18354a">ESCALA</text>
+      <text x="34" y="112" font-size="27" font-weight="700" fill="#18354a">1 : 100 000</text>
+      <path d="M40 175h300" stroke="#18354a" stroke-width="9"/>
+      <path d="M40 158v34M140 158v34M240 158v34M340 158v34" stroke="#18354a" stroke-width="7"/>
+      <text x="35" y="232" font-size="24" font-weight="700" fill="#18354a">0</text>
+      <text x="125" y="232" font-size="24" font-weight="700" fill="#18354a">1 km</text>
+      <text x="225" y="232" font-size="24" font-weight="700" fill="#18354a">2 km</text>
+    </g>
+    <g transform="translate(585 385)">
+      <rect width="430" height="270" rx="32" fill="#ff8294" stroke="#18354a" stroke-width="8"/>
+      <text x="34" y="60" font-size="34" font-weight="900" fill="#18354a">COORDENADAS</text>
+      <circle cx="210" cy="165" r="78" fill="#fff" stroke="#18354a" stroke-width="7"/>
+      <path d="M132 165h156M210 87v156M148 120c40 30 84 30 124 0M148 210c40-30 84-30 124 0" fill="none" stroke="#4aa995" stroke-width="7"/>
+      <text x="310" y="148" font-size="23" font-weight="700" fill="#18354a">latitude</text>
+      <text x="310" y="188" font-size="23" font-weight="700" fill="#18354a">longitude</text>
+    </g>
+    <g transform="translate(1085 385)">
+      <rect width="430" height="270" rx="32" fill="#72d4c0" stroke="#18354a" stroke-width="8"/>
+      <text x="34" y="60" font-size="34" font-weight="900" fill="#18354a">PROJEÇÕES</text>
+      <path d="M66 106h140v104H66z" fill="#fff" stroke="#18354a" stroke-width="6"/>
+      <path d="M86 126c35-30 76-22 100 12-14 18-12 36 3 54-48 16-88 0-103-30z" fill="#ffcc48" stroke="#18354a" stroke-width="4"/>
+      <path d="m260 112 58 98h-116z" fill="#fff" stroke="#18354a" stroke-width="6"/>
+      <text x="327" y="143" font-size="23" font-weight="700" fill="#18354a">forma</text>
+      <text x="327" y="181" font-size="23" font-weight="700" fill="#18354a">área</text>
+      <text x="327" y="219" font-size="23" font-weight="700" fill="#18354a">distância</text>
+    </g>
+    <rect x="430" y="745" width="740" height="92" rx="46" fill="#18354a"/>
+    <text x="510" y="805" font-size="37" font-weight="800" fill="#fff">TÍTULO • LEGENDA • FONTE • DATA</text>
+  </g>
+</svg>
