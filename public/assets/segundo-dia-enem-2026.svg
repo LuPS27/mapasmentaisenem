@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Segundo dia do ENEM 2026</title>
+  <desc id="desc">Guia visual com data, horários e áreas de prova do segundo dia do ENEM 2026</desc>
+  <rect width="1600" height="900" fill="#fff8e6"/>
+  <circle cx="1420" cy="110" r="220" fill="#ff5f57" opacity=".16"/>
+  <circle cx="120" cy="790" r="230" fill="#31c4a4" opacity=".16"/>
+  <text x="105" y="120" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#0f766e">MAPAS DO ENEM • GUIA OFICIAL</text>
+  <text x="105" y="235" font-family="Arial,sans-serif" font-size="78" font-weight="900" fill="#20243a">SEGUNDO DIA</text>
+  <text x="105" y="320" font-family="Arial,sans-serif" font-size="68" font-weight="900" fill="#ff5f57">ENEM 2026</text>
+  <rect x="105" y="395" width="440" height="230" rx="38" fill="#ffd166" stroke="#20243a" stroke-width="7"/>
+  <text x="325" y="485" text-anchor="middle" font-family="Arial,sans-serif" font-size="58" font-weight="900" fill="#20243a">15 NOV</text>
+  <text x="325" y="550" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#20243a">DOMINGO</text>
+  <g font-family="Arial,sans-serif" font-weight="800" fill="#20243a">
+    <rect x="610" y="395" width="390" height="230" rx="38" fill="#69a7ff" stroke="#20243a" stroke-width="7"/>
+    <text x="805" y="475" text-anchor="middle" font-size="36">MATEMÁTICA</text>
+    <text x="805" y="550" text-anchor="middle" font-size="52">45 QUESTÕES</text>
+    <rect x="1065" y="395" width="430" height="230" rx="38" fill="#50c8a8" stroke="#20243a" stroke-width="7"/>
+    <text x="1280" y="475" text-anchor="middle" font-size="34">CIÊNCIAS DA NATUREZA</text>
+    <text x="1280" y="550" text-anchor="middle" font-size="52">45 QUESTÕES</text>
+  </g>
+  <rect x="260" y="705" width="1080" height="105" rx="52" fill="#20243a"/>
+  <text x="800" y="771" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" font-weight="800" fill="#fff">PORTÕES 12H–13H • PROVA 13H30–18H30</text>
+</svg>
