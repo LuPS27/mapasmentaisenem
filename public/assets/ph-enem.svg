@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">pH no ENEM</title>
+  <desc id="desc">Mapa visual da escala de pH, de ácido a básico, destacando variação logarítmica</desc>
+  <defs><linearGradient id="scale" x1="0" x2="1"><stop offset="0" stop-color="#ef4444"/><stop offset=".48" stop-color="#facc15"/><stop offset=".5" stop-color="#22c55e"/><stop offset="1" stop-color="#2563eb"/></linearGradient></defs>
+  <rect width="1600" height="900" fill="#f8fafc"/>
+  <circle cx="1400" cy="110" r="210" fill="#8b5cf6" opacity=".12"/>
+  <circle cx="140" cy="810" r="230" fill="#22c55e" opacity=".12"/>
+  <text x="105" y="125" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#0f766e">MAPAS DO ENEM • QUÍMICA</text>
+  <text x="105" y="260" font-family="Arial,sans-serif" font-size="100" font-weight="900" fill="#172033">pH NO ENEM</text>
+  <text x="105" y="325" font-family="Arial,sans-serif" font-size="38" font-weight="800" fill="#7c3aed">1 unidade = mudança de 10 vezes</text>
+  <rect x="110" y="430" width="1380" height="125" rx="48" fill="url(#scale)" stroke="#172033" stroke-width="7"/>
+  <g font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#172033" text-anchor="middle">
+    <text x="145" y="625">0</text><text x="435" y="625">3</text><text x="790" y="625">7</text><text x="1140" y="625">10</text><text x="1460" y="625">14</text>
+    <text x="285" y="700" font-size="38" fill="#dc2626">ÁCIDO</text><text x="790" y="700" font-size="38" fill="#15803d">NEUTRO*</text><text x="1315" y="700" font-size="38" fill="#1d4ed8">BÁSICO</text>
+  </g>
+  <path d="M790 410v170" stroke="#172033" stroke-width="12"/>
+  <path d="M650 785h280" stroke="#172033" stroke-width="5"/>
+  <text x="790" y="835" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#475569">* solução aquosa a 25 °C</text>
+</svg>
