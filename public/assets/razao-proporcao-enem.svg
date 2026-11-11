@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Razão e proporção no ENEM</title>
+  <desc id="desc">Mapa visual comparando grandezas diretamente e inversamente proporcionais</desc>
+  <rect width="1600" height="900" fill="#fff8e6"/>
+  <circle cx="1450" cy="100" r="230" fill="#6c63ff" opacity=".13"/>
+  <circle cx="90" cy="820" r="250" fill="#31c4a4" opacity=".16"/>
+  <text x="100" y="115" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#0f766e">MAPAS DO ENEM • MATEMÁTICA</text>
+  <text x="100" y="235" font-family="Arial,sans-serif" font-size="82" font-weight="900" fill="#20243a">RAZÃO E</text>
+  <text x="100" y="325" font-family="Arial,sans-serif" font-size="82" font-weight="900" fill="#ff5f57">PROPORÇÃO</text>
+  <rect x="100" y="410" width="650" height="320" rx="40" fill="#31c4a4" stroke="#20243a" stroke-width="7"/>
+  <text x="425" y="490" text-anchor="middle" font-family="Arial,sans-serif" font-size="38" font-weight="800" fill="#20243a">DIRETA</text>
+  <text x="425" y="575" text-anchor="middle" font-family="Arial,sans-serif" font-size="66" font-weight="900" fill="#fff">↑  x  →  ↑  y</text>
+  <text x="425" y="660" text-anchor="middle" font-family="Arial,sans-serif" font-size="42" font-weight="800" fill="#20243a">y ÷ x = constante</text>
+  <rect x="850" y="410" width="650" height="320" rx="40" fill="#ffd166" stroke="#20243a" stroke-width="7"/>
+  <text x="1175" y="490" text-anchor="middle" font-family="Arial,sans-serif" font-size="38" font-weight="800" fill="#20243a">INVERSA</text>
+  <text x="1175" y="575" text-anchor="middle" font-family="Arial,sans-serif" font-size="66" font-weight="900" fill="#ff5f57">↑  x  →  ↓  y</text>
+  <text x="1175" y="660" text-anchor="middle" font-family="Arial,sans-serif" font-size="42" font-weight="800" fill="#20243a">x × y = constante</text>
+  <path d="M770 570 L830 570" stroke="#20243a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M815 550 L838 570 L815 590" fill="none" stroke="#20243a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="800" y="810" text-anchor="middle" font-family="Arial,sans-serif" font-size="38" font-weight="700" fill="#20243a">Entenda a relação antes da regra de três.</text>
+</svg>
