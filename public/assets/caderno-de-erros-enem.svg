@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Caderno de erros para o ENEM</title>
+  <desc id="desc">Mapa visual conectando questão, diagnóstico, correção e próxima ação de estudo</desc>
+  <rect width="1600" height="900" fill="#fff8e6"/>
+  <circle cx="1450" cy="90" r="240" fill="#ffd166" opacity=".28"/>
+  <circle cx="110" cy="825" r="250" fill="#6c63ff" opacity=".14"/>
+  <text x="100" y="115" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#0f766e">MAPAS DO ENEM • ESTRATÉGIA</text>
+  <text x="100" y="245" font-family="Arial,sans-serif" font-size="80" font-weight="900" fill="#20243a">CADERNO DE ERROS</text>
+  <text x="100" y="330" font-family="Arial,sans-serif" font-size="50" font-weight="900" fill="#ff5f57">ERRAR → ENTENDER → CORRIGIR</text>
+  <rect x="95" y="420" width="310" height="220" rx="38" fill="#ff5f57" stroke="#20243a" stroke-width="7"/>
+  <text x="250" y="510" text-anchor="middle" font-family="Arial,sans-serif" font-size="40" font-weight="900" fill="#fff">QUESTÃO</text>
+  <text x="250" y="565" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="800" fill="#fff">O QUE ERREI?</text>
+  <path d="M420 530 L530 530" stroke="#20243a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M505 505 L535 530 L505 555" fill="none" stroke="#20243a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="560" y="420" width="330" height="220" rx="38" fill="#ffd166" stroke="#20243a" stroke-width="7"/>
+  <text x="725" y="510" text-anchor="middle" font-family="Arial,sans-serif" font-size="40" font-weight="900" fill="#20243a">DIAGNÓSTICO</text>
+  <text x="725" y="565" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="800" fill="#20243a">POR QUE ERREI?</text>
+  <path d="M905 530 L1015 530" stroke="#20243a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M990 505 L1020 530 L990 555" fill="none" stroke="#20243a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="1045" y="420" width="460" height="220" rx="38" fill="#31c4a4" stroke="#20243a" stroke-width="7"/>
+  <text x="1275" y="510" text-anchor="middle" font-family="Arial,sans-serif" font-size="40" font-weight="900" fill="#20243a">PRÓXIMA AÇÃO</text>
+  <text x="1275" y="565" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="800" fill="#20243a">O QUE FAREI?</text>
+  <rect x="300" y="725" width="1000" height="95" rx="47" fill="#6c63ff" stroke="#20243a" stroke-width="7"/>
+  <text x="800" y="788" text-anchor="middle" font-family="Arial,sans-serif" font-size="35" font-weight="900" fill="#fff">CONTEÚDO • INTERPRETAÇÃO • PROCEDIMENTO • ATENÇÃO • TEMPO</text>
+</svg>
