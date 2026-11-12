@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Eletricidade no ENEM</title>
+  <desc id="desc">Mapa visual conectando tensão, corrente, resistência, potência e consumo de energia</desc>
+  <rect width="1600" height="900" fill="#fff8e6"/>
+  <circle cx="1450" cy="90" r="235" fill="#ffd166" opacity=".28"/>
+  <circle cx="100" cy="820" r="250" fill="#6c63ff" opacity=".13"/>
+  <text x="100" y="115" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#0f766e">MAPAS DO ENEM • FÍSICA</text>
+  <text x="100" y="245" font-family="Arial,sans-serif" font-size="82" font-weight="900" fill="#20243a">ELETRICIDADE</text>
+  <text x="100" y="335" font-family="Arial,sans-serif" font-size="58" font-weight="900" fill="#ff5f57">CIRCUITOS • POTÊNCIA • CONSUMO</text>
+  <circle cx="310" cy="555" r="145" fill="#31c4a4" stroke="#20243a" stroke-width="7"/>
+  <text x="310" y="535" text-anchor="middle" font-family="Arial,sans-serif" font-size="46" font-weight="900" fill="#20243a">U = R · I</text>
+  <text x="310" y="595" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#20243a">LEI DE OHM</text>
+  <path d="M470 555 L650 555" stroke="#20243a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M625 530 L655 555 L625 580" fill="none" stroke="#20243a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="690" y="420" width="350" height="270" rx="42" fill="#ffd166" stroke="#20243a" stroke-width="7"/>
+  <text x="865" y="530" text-anchor="middle" font-family="Arial,sans-serif" font-size="48" font-weight="900" fill="#20243a">P = U · I</text>
+  <text x="865" y="600" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="800" fill="#20243a">POTÊNCIA</text>
+  <path d="M1070 555 L1200 555" stroke="#20243a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M1175 530 L1205 555 L1175 580" fill="none" stroke="#20243a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="1240" y="420" width="260" height="270" rx="42" fill="#ff5f57" stroke="#20243a" stroke-width="7"/>
+  <text x="1370" y="530" text-anchor="middle" font-family="Arial,sans-serif" font-size="48" font-weight="900" fill="#fff">E = P · t</text>
+  <text x="1370" y="600" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="800" fill="#fff">CONSUMO</text>
+  <text x="800" y="800" text-anchor="middle" font-family="Arial,sans-serif" font-size="38" font-weight="800" fill="#20243a">Entenda o circuito antes de escolher a fórmula.</text>
+</svg>
