@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Geometria espacial no ENEM</title>
+  <desc id="desc">Mapa visual conectando sólidos, área, volume, escala e unidades</desc>
+  <rect width="1600" height="900" fill="#fff8e6"/>
+  <circle cx="1450" cy="80" r="235" fill="#31c4a4" opacity=".18"/>
+  <circle cx="100" cy="825" r="255" fill="#6c63ff" opacity=".14"/>
+  <text x="100" y="115" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#0f766e">MAPAS DO ENEM • MATEMÁTICA</text>
+  <text x="100" y="245" font-family="Arial,sans-serif" font-size="78" font-weight="900" fill="#20243a">GEOMETRIA ESPACIAL</text>
+  <text x="100" y="330" font-family="Arial,sans-serif" font-size="52" font-weight="900" fill="#ff5f57">VOLUME • ÁREA • ESCALA</text>
+  <g transform="translate(105 430)">
+    <path d="M70 80 L260 20 L400 105 L210 170 Z" fill="#ffd166" stroke="#20243a" stroke-width="7"/>
+    <path d="M70 80 L70 280 L210 365 L210 170 Z" fill="#ff8f70" stroke="#20243a" stroke-width="7"/>
+    <path d="M210 170 L400 105 L400 300 L210 365 Z" fill="#ff5f57" stroke="#20243a" stroke-width="7"/>
+    <text x="235" y="430" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" font-weight="900" fill="#20243a">PRISMA: V = Aᵦ · h</text>
+  </g>
+  <path d="M570 600 L690 600" stroke="#20243a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M665 575 L695 600 L665 625" fill="none" stroke="#20243a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(735 430)">
+    <ellipse cx="170" cy="55" rx="155" ry="55" fill="#31c4a4" stroke="#20243a" stroke-width="7"/>
+    <path d="M15 55 L15 285 M325 55 L325 285" stroke="#20243a" stroke-width="7"/>
+    <ellipse cx="170" cy="285" rx="155" ry="55" fill="#1da58b" stroke="#20243a" stroke-width="7"/>
+    <path d="M15 55 C15 85 85 110 170 110 C255 110 325 85 325 55" fill="none" stroke="#20243a" stroke-width="7"/>
+    <text x="170" y="405" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" font-weight="900" fill="#20243a">CILINDRO: V = πr²h</text>
+  </g>
+  <path d="M1090 600 L1195 600" stroke="#20243a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M1170 575 L1200 600 L1170 625" fill="none" stroke="#20243a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(1230 420)">
+    <ellipse cx="150" cy="300" rx="145" ry="48" fill="#6c63ff" stroke="#20243a" stroke-width="7"/>
+    <path d="M5 300 L150 20 L295 300" fill="#8f88ff" stroke="#20243a" stroke-width="7" stroke-linejoin="round"/>
+    <path d="M150 20 L150 300" stroke="#20243a" stroke-width="6" stroke-dasharray="16 12"/>
+    <text x="150" y="405" text-anchor="middle" font-family="Arial,sans-serif" font-size="31" font-weight="900" fill="#20243a">CONE: V = πr²h/3</text>
+  </g>
+  <rect x="340" y="820" width="920" height="4" fill="#20243a"/>
+  <text x="800" y="865" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#20243a">Identifique o sólido • escolha a grandeza • confira a unidade</text>
+</svg>
