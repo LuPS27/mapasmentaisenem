@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Intertextualidade no ENEM</title>
+  <desc id="desc">Mapa visual conectando texto-fonte, retomada, transformação, finalidade e efeito</desc>
+  <rect width="1600" height="900" fill="#fff8e6"/>
+  <circle cx="1455" cy="85" r="240" fill="#6c63ff" opacity=".15"/>
+  <circle cx="100" cy="820" r="250" fill="#ffd166" opacity=".22"/>
+  <text x="100" y="115" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#0f766e">MAPAS DO ENEM • LINGUAGENS</text>
+  <text x="100" y="245" font-family="Arial,sans-serif" font-size="80" font-weight="900" fill="#20243a">INTERTEXTUALIDADE</text>
+  <text x="100" y="330" font-family="Arial,sans-serif" font-size="48" font-weight="900" fill="#ff5f57">UM TEXTO DIALOGA COM OUTRO</text>
+  <rect x="90" y="430" width="330" height="230" rx="38" fill="#ffd166" stroke="#20243a" stroke-width="7"/>
+  <text x="255" y="520" text-anchor="middle" font-family="Arial,sans-serif" font-size="40" font-weight="900" fill="#20243a">TEXTO-FONTE</text>
+  <text x="255" y="580" text-anchor="middle" font-family="Arial,sans-serif" font-size="29" font-weight="800" fill="#20243a">O QUE RETOMA?</text>
+  <path d="M435 545 L575 545" stroke="#20243a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M550 520 L580 545 L550 570" fill="none" stroke="#20243a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="605" y="430" width="370" height="230" rx="38" fill="#ff5f57" stroke="#20243a" stroke-width="7"/>
+  <text x="790" y="520" text-anchor="middle" font-family="Arial,sans-serif" font-size="40" font-weight="900" fill="#fff">TRANSFORMAÇÃO</text>
+  <text x="790" y="580" text-anchor="middle" font-family="Arial,sans-serif" font-size="29" font-weight="800" fill="#fff">O QUE MUDOU?</text>
+  <path d="M990 545 L1130 545" stroke="#20243a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M1105 520 L1135 545 L1105 570" fill="none" stroke="#20243a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="1160" y="430" width="350" height="230" rx="38" fill="#31c4a4" stroke="#20243a" stroke-width="7"/>
+  <text x="1335" y="520" text-anchor="middle" font-family="Arial,sans-serif" font-size="40" font-weight="900" fill="#20243a">NOVO EFEITO</text>
+  <text x="1335" y="580" text-anchor="middle" font-family="Arial,sans-serif" font-size="29" font-weight="800" fill="#20243a">PARA QUÊ?</text>
+  <rect x="300" y="745" width="1000" height="90" rx="45" fill="#6c63ff" stroke="#20243a" stroke-width="7"/>
+  <text x="800" y="803" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" font-weight="900" fill="#fff">CITAÇÃO • ALUSÃO • PARÁFRASE • PARÓDIA • REMIX</text>
+</svg>
