@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://mmenem.exponha.com/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://mmenem.exponha.com/</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://mmenem.exponha.com/blog/introducao-redacao-enem/</loc><lastmod>2026-11-05</lastmod></url>
   <url><loc>https://mmenem.exponha.com/blog/termologia-enem/</loc><lastmod>2026-11-05</lastmod></url>
   <url><loc>https://mmenem.exponha.com/blog/artes-enem/</loc><lastmod>2026-11-04</lastmod></url>
@@ -102,6 +102,12 @@
   <url>
     <loc>https://mmenem.exponha.com/blog/evolucao-enem/</loc>
     <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mmenem.exponha.com/blog/competencia-1-redacao-enem/</loc>
+    <lastmod>2026-11-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
