@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Charges e tirinhas no ENEM</title><desc id="desc">Mapa visual de quadros, balões, imagem, sequência, ironia, contexto e crítica</desc>
+  <rect width="1600" height="900" fill="#f5f3ff"/><circle cx="1485" cy="75" r="255" fill="#ffd166" opacity=".30"/><circle cx="100" cy="830" r="250" fill="#49a8e8" opacity=".18"/>
+  <text x="100" y="105" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#0f766e">MAPAS DO ENEM • LINGUAGENS</text>
+  <text x="100" y="225" font-family="Arial,sans-serif" font-size="76" font-weight="900" fill="#20243a">CHARGES E TIRINHAS</text>
+  <text x="100" y="305" font-family="Arial,sans-serif" font-size="43" font-weight="900" fill="#e05263">LEIA O QUE AS PALAVRAS NÃO DIZEM</text>
+  <rect x="85" y="395" width="420" height="270" rx="34" fill="#ffd166" stroke="#20243a" stroke-width="7"/>
+  <path d="M155 465h270v105H290l-45 45 8-45h-98z" fill="#fff" stroke="#20243a" stroke-width="7"/>
+  <text x="290" y="530" text-anchor="middle" font-family="Arial,sans-serif" font-size="31" font-weight="900" fill="#20243a">PALAVRAS</text><text x="295" y="640" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="800" fill="#20243a">BALÃO • PLACA • LEGENDA</text>
+  <path d="M540 530h80" stroke="#20243a" stroke-width="15" stroke-linecap="round"/><path d="m600 500 40 30-40 30" fill="none" stroke="#20243a" stroke-width="15" stroke-linejoin="round"/>
+  <rect x="660" y="395" width="360" height="270" rx="34" fill="#31c4a4" stroke="#20243a" stroke-width="7"/>
+  <circle cx="840" cy="500" r="62" fill="#fff" stroke="#20243a" stroke-width="7"/><circle cx="820" cy="485" r="7" fill="#20243a"/><circle cx="860" cy="485" r="7" fill="#20243a"/><path d="M805 530q35 25 70 0" fill="none" stroke="#20243a" stroke-width="7" stroke-linecap="round"/>
+  <text x="840" y="630" text-anchor="middle" font-family="Arial,sans-serif" font-size="27" font-weight="900" fill="#20243a">IMAGEM • GESTO • CENÁRIO</text>
+  <path d="M1055 530h80" stroke="#20243a" stroke-width="15" stroke-linecap="round"/><path d="m1115 500 40 30-40 30" fill="none" stroke="#20243a" stroke-width="15" stroke-linejoin="round"/>
+  <rect x="1175" y="395" width="340" height="270" rx="34" fill="#7c5cff" stroke="#20243a" stroke-width="7"/>
+  <text x="1345" y="480" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" font-weight="900" fill="#fff">EFEITO</text><text x="1345" y="540" text-anchor="middle" font-family="Arial,sans-serif" font-size="27" font-weight="800" fill="#fff">HUMOR • IRONIA</text><text x="1345" y="590" text-anchor="middle" font-family="Arial,sans-serif" font-size="27" font-weight="800" fill="#fff">CRÍTICA • REFLEXÃO</text>
+  <rect x="275" y="745" width="1050" height="100" rx="50" fill="#20243a"/><text x="800" y="810" text-anchor="middle" font-family="Arial,sans-serif" font-size="37" font-weight="900" fill="#fff">QUADRO: QUEM • UNA • ANTES • DESVIO • RELAÇÃO • OBJETIVO</text>
+</svg>
