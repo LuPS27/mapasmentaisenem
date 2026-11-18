@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Química Orgânica no ENEM</title><desc id="desc">Mapa visual de cadeia carbônica, grupos funcionais, propriedades e reações orgânicas</desc>
+  <rect width="1600" height="900" fill="#ecfdf5"/><circle cx="1485" cy="75" r="255" fill="#7c5cff" opacity=".15"/><circle cx="100" cy="830" r="250" fill="#ffd166" opacity=".30"/>
+  <text x="100" y="105" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#0f766e">MAPAS DO ENEM • QUÍMICA</text>
+  <text x="100" y="225" font-family="Arial,sans-serif" font-size="76" font-weight="900" fill="#20243a">QUÍMICA ORGÂNICA</text>
+  <text x="100" y="305" font-family="Arial,sans-serif" font-size="43" font-weight="900" fill="#e05263">DA ESTRUTURA À PROPRIEDADE</text>
+  <rect x="80" y="395" width="390" height="270" rx="36" fill="#ffd166" stroke="#20243a" stroke-width="7"/>
+  <text x="275" y="470" text-anchor="middle" font-family="Arial,sans-serif" font-size="33" font-weight="900" fill="#20243a">CADEIA</text><text x="275" y="535" text-anchor="middle" font-family="Arial,sans-serif" font-size="31" font-weight="900" fill="#20243a">C—C=C—C</text><text x="275" y="600" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="800" fill="#20243a">SATURAÇÃO • RAMIFICAÇÃO</text>
+  <path d="M505 530h85" stroke="#20243a" stroke-width="15" stroke-linecap="round"/><path d="m570 500 40 30-40 30" fill="none" stroke="#20243a" stroke-width="15" stroke-linejoin="round"/>
+  <rect x="630" y="395" width="390" height="270" rx="36" fill="#31c4a4" stroke="#20243a" stroke-width="7"/>
+  <text x="825" y="470" text-anchor="middle" font-family="Arial,sans-serif" font-size="33" font-weight="900" fill="#20243a">GRUPO FUNCIONAL</text><text x="825" y="535" text-anchor="middle" font-family="Arial,sans-serif" font-size="31" font-weight="900" fill="#20243a">—OH • C=O • —COOH</text><text x="825" y="600" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="800" fill="#20243a">ÁLCOOL • CETONA • ÁCIDO</text>
+  <path d="M1055 530h85" stroke="#20243a" stroke-width="15" stroke-linecap="round"/><path d="m1120 500 40 30-40 30" fill="none" stroke="#20243a" stroke-width="15" stroke-linejoin="round"/>
+  <rect x="1180" y="395" width="340" height="270" rx="36" fill="#49a8e8" stroke="#20243a" stroke-width="7"/>
+  <text x="1350" y="470" text-anchor="middle" font-family="Arial,sans-serif" font-size="33" font-weight="900" fill="#20243a">COMPORTAMENTO</text><text x="1350" y="535" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="800" fill="#20243a">POLARIDADE • REAÇÃO</text><text x="1350" y="585" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="800" fill="#20243a">SOLUBILIDADE • USO</text>
+  <rect x="285" y="745" width="1030" height="100" rx="50" fill="#20243a"/><text x="800" y="810" text-anchor="middle" font-family="Arial,sans-serif" font-size="38" font-weight="900" fill="#fff">CARBO: CADEIA • ÁTOMOS • RECONHEÇA • BUSQUE • OBSERVE</text>
+</svg>
