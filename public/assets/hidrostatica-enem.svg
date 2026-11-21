@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
+<title id="t">Hidrostática no ENEM</title><desc id="d">Mapa visual com pressão, densidade, Pascal, pressão nos líquidos, empuxo e flutuação</desc>
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#102a43"/><stop offset="1" stop-color="#0b7285"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-opacity=".22"/></filter></defs>
+<rect width="1600" height="900" rx="36" fill="url(#bg)"/>
+<circle cx="1450" cy="120" r="185" fill="#22b8cf" opacity=".22"/><circle cx="140" cy="820" r="250" fill="#4dabf7" opacity=".16"/>
+<text x="100" y="120" fill="#99e9f2" font-family="Arial,sans-serif" font-size="34" font-weight="700" letter-spacing="4">FÍSICA • MAPA DE REVISÃO</text>
+<text x="100" y="220" fill="#fff" font-family="Arial,sans-serif" font-size="82" font-weight="900">HIDROSTÁTICA</text>
+<text x="100" y="285" fill="#d0ebff" font-family="Arial,sans-serif" font-size="35">pressão • densidade • empuxo • flutuação</text>
+<g filter="url(#s)" font-family="Arial,sans-serif">
+<rect x="100" y="355" width="420" height="180" rx="28" fill="#fff"/><text x="135" y="415" fill="#0b7285" font-size="30" font-weight="800">PRESSÃO</text><text x="135" y="475" fill="#102a43" font-size="44" font-weight="900">p = F ÷ A</text><text x="135" y="515" fill="#486581" font-size="23">unidade: Pa = N/m²</text>
+<rect x="590" y="355" width="420" height="180" rx="28" fill="#e3fafc"/><text x="625" y="415" fill="#0b7285" font-size="30" font-weight="800">LÍQUIDO EM REPOUSO</text><text x="625" y="475" fill="#102a43" font-size="42" font-weight="900">Δp = ρgh</text><text x="625" y="515" fill="#486581" font-size="23">profundidade aumenta pressão</text>
+<rect x="1080" y="355" width="420" height="180" rx="28" fill="#fff"/><text x="1115" y="415" fill="#0b7285" font-size="30" font-weight="800">DENSIDADE</text><text x="1115" y="475" fill="#102a43" font-size="44" font-weight="900">ρ = m ÷ V</text><text x="1115" y="515" fill="#486581" font-size="23">compare corpo e fluido</text>
+<rect x="220" y="620" width="500" height="170" rx="28" fill="#fff4e6"/><text x="260" y="680" fill="#e8590c" font-size="30" font-weight="800">PASCAL</text><text x="260" y="735" fill="#102a43" font-size="38" font-weight="900">F₁/A₁ = F₂/A₂</text><text x="260" y="772" fill="#486581" font-size="22">pressão transmitida no fluido</text>
+<rect x="880" y="620" width="500" height="170" rx="28" fill="#d3f9d8"/><text x="920" y="680" fill="#2b8a3e" font-size="30" font-weight="800">ARQUIMEDES</text><text x="920" y="735" fill="#102a43" font-size="38" font-weight="900">E = ρgV</text><text x="920" y="772" fill="#486581" font-size="22">peso do fluido deslocado</text>
+</g>
+<path d="M780 560v80" stroke="#99e9f2" stroke-width="12" stroke-linecap="round"/><path d="M755 615l25 25 25-25" fill="none" stroke="#99e9f2" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="100" y="850" fill="#d0ebff" font-family="Arial,sans-serif" font-size="26">MAPAS DO ENEM • ENTENDA A SITUAÇÃO ANTES DA FÓRMULA</text>
+</svg>
