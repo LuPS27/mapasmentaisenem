@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
+<title id="t">Guerra Fria no ENEM</title><desc id="d">Mapa visual sobre bipolaridade, alianças, ameaça nuclear, conflitos indiretos, propaganda, descolonização e fim da União Soviética</desc>
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#12355b"/><stop offset=".5" stop-color="#eef2f6"/><stop offset="1" stop-color="#8b1e2d"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="10" stdDeviation="10" flood-opacity=".22"/></filter></defs>
+<rect width="1600" height="900" rx="36" fill="url(#bg)"/>
+<rect x="0" y="0" width="800" height="900" fill="#12355b" opacity=".92"/><rect x="800" y="0" width="800" height="900" fill="#8b1e2d" opacity=".9"/>
+<text x="100" y="115" fill="#b9d6f2" font-family="Arial,sans-serif" font-size="32" font-weight="700" letter-spacing="4">HISTÓRIA • GEOPOLÍTICA</text>
+<text x="100" y="225" fill="#fff" font-family="Arial,sans-serif" font-size="86" font-weight="900">GUERRA FRIA</text>
+<text x="100" y="292" fill="#f8f9fa" font-family="Arial,sans-serif" font-size="34">disputa global • conflitos indiretos • propaganda</text>
+<line x1="800" y1="335" x2="800" y2="790" stroke="#fff" stroke-width="8" stroke-dasharray="20 18" opacity=".8"/>
+<g filter="url(#s)" font-family="Arial,sans-serif">
+<rect x="95" y="365" width="610" height="165" rx="26" fill="#fff"/><text x="135" y="425" fill="#12355b" font-size="29" font-weight="800">BLOCO LIDERADO PELOS EUA</text><text x="135" y="478" fill="#243b53" font-size="34" font-weight="900">OTAN • capitalismo</text><text x="135" y="515" fill="#52667a" font-size="22">contenção • Plano Marshall</text>
+<rect x="895" y="365" width="610" height="165" rx="26" fill="#fff"/><text x="935" y="425" fill="#8b1e2d" font-size="29" font-weight="800">BLOCO LIDERADO PELA URSS</text><text x="935" y="478" fill="#3d2530" font-size="34" font-weight="900">Pacto de Varsóvia</text><text x="935" y="515" fill="#70505c" font-size="22">socialismo • Comecon</text>
+<rect x="180" y="600" width="1240" height="180" rx="28" fill="#fff7ed"/><text x="235" y="660" fill="#d9480f" font-size="30" font-weight="900">LEIA AS CONEXÕES</text><text x="235" y="715" fill="#243b53" font-size="31" font-weight="800">ameaça nuclear • guerras locais • descolonização</text><text x="235" y="760" fill="#52667a" font-size="25">ciência • cultura • América Latina • movimentos sociais</text>
+</g>
+<circle cx="800" cy="540" r="58" fill="#ffd43b" stroke="#fff" stroke-width="10"/><path d="M770 540h60M800 510v60" stroke="#8b1e2d" stroke-width="12"/>
+<text x="100" y="855" fill="#fff" font-family="Arial,sans-serif" font-size="26">MAPAS DO ENEM • COMPARE FONTES, INTERESSES E ESCALAS</text>
+</svg>
