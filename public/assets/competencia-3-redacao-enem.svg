@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
+<title id="t">Competência 3 da redação do ENEM</title><desc id="d">Mapa visual com tese, seleção, relação, organização, interpretação e desenvolvimento de argumentos</desc>
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#5f3dc4"/><stop offset="1" stop-color="#d6336c"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-opacity=".22"/></filter></defs>
+<rect width="1600" height="900" rx="36" fill="url(#bg)"/>
+<circle cx="1450" cy="100" r="220" fill="#fcc2d7" opacity=".18"/><circle cx="120" cy="820" r="240" fill="#d0bfff" opacity=".16"/>
+<text x="100" y="115" fill="#e5dbff" font-family="Arial,sans-serif" font-size="32" font-weight="700" letter-spacing="4">REDAÇÃO • ENEM</text>
+<text x="100" y="220" fill="#fff" font-family="Arial,sans-serif" font-size="78" font-weight="900">COMPETÊNCIA 3</text>
+<text x="100" y="285" fill="#fff0f6" font-family="Arial,sans-serif" font-size="35">projeto de texto • coerência • argumentação</text>
+<g filter="url(#s)" font-family="Arial,sans-serif">
+<rect x="100" y="365" width="330" height="165" rx="26" fill="#fff"/><text x="135" y="425" fill="#5f3dc4" font-size="29" font-weight="900">1. TESE</text><text x="135" y="480" fill="#343a40" font-size="25" font-weight="700">qual ponto</text><text x="135" y="513" fill="#343a40" font-size="25" font-weight="700">você defende?</text>
+<rect x="475" y="365" width="330" height="165" rx="26" fill="#fff"/><text x="510" y="425" fill="#7048e8" font-size="29" font-weight="900">2. SELEÇÃO</text><text x="510" y="480" fill="#343a40" font-size="25" font-weight="700">o que realmente</text><text x="510" y="513" fill="#343a40" font-size="25" font-weight="700">prova a tese?</text>
+<rect x="850" y="365" width="330" height="165" rx="26" fill="#fff"/><text x="885" y="425" fill="#c2255c" font-size="29" font-weight="900">3. RELAÇÃO</text><text x="885" y="480" fill="#343a40" font-size="25" font-weight="700">como as ideias</text><text x="885" y="513" fill="#343a40" font-size="25" font-weight="700">se conectam?</text>
+<rect x="1225" y="365" width="275" height="165" rx="26" fill="#fff"/><text x="1260" y="425" fill="#d6336c" font-size="27" font-weight="900">4. ANÁLISE</text><text x="1260" y="480" fill="#343a40" font-size="24" font-weight="700">por que isso</text><text x="1260" y="513" fill="#343a40" font-size="24" font-weight="700">importa?</text>
+<rect x="250" y="625" width="1100" height="155" rx="28" fill="#fff9db"/><text x="310" y="690" fill="#e67700" font-size="31" font-weight="900">ARGUMENTO COMPLETO</text><text x="310" y="742" fill="#343a40" font-size="29" font-weight="800">afirmação → explicação → exemplo → interpretação</text>
+</g>
+<path d="M430 448h35M805 448h35M1180 448h35" stroke="#ffd8a8" stroke-width="12" stroke-linecap="round"/>
+<text x="100" y="852" fill="#fff" font-family="Arial,sans-serif" font-size="26">MAPAS DO ENEM • PLANEJE ANTES, REVISE POR FUNÇÃO</text>
+</svg>
