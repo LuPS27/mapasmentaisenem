@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
+<title id="t">Trigonometria no ENEM</title><desc id="d">Mapa visual com triângulo retângulo, hipotenusa, catetos, seno, cosseno e tangente</desc>
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0b7285"/><stop offset="1" stop-color="#364fc7"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-opacity=".22"/></filter></defs>
+<rect width="1600" height="900" rx="36" fill="url(#bg)"/><circle cx="1460" cy="120" r="220" fill="#74c0fc" opacity=".18"/><circle cx="120" cy="830" r="260" fill="#63e6be" opacity=".15"/>
+<text x="100" y="115" fill="#c5f6fa" font-family="Arial,sans-serif" font-size="32" font-weight="700" letter-spacing="4">MATEMÁTICA • GEOMETRIA</text>
+<text x="100" y="220" fill="#fff" font-family="Arial,sans-serif" font-size="76" font-weight="900">TRIGONOMETRIA</text>
+<text x="100" y="282" fill="#e7f5ff" font-family="Arial,sans-serif" font-size="34">desenhe • identifique • escolha a razão</text>
+<g filter="url(#s)"><rect x="95" y="345" width="720" height="430" rx="30" fill="#fff"/></g>
+<path d="M190 690 L680 690 L680 420 Z" fill="#d0ebff" stroke="#1864ab" stroke-width="10"/>
+<rect x="640" y="650" width="40" height="40" fill="none" stroke="#1864ab" stroke-width="7"/>
+<path d="M240 690 A50 50 0 0 1 232 663" fill="none" stroke="#e8590c" stroke-width="10"/>
+<text x="250" y="650" fill="#e8590c" font-family="Arial,sans-serif" font-size="35" font-weight="900">θ</text>
+<text x="390" y="735" fill="#0b7285" font-family="Arial,sans-serif" font-size="25" font-weight="800">ADJACENTE</text>
+<text x="700" y="575" fill="#0b7285" font-family="Arial,sans-serif" font-size="25" font-weight="800">OPOSTO</text>
+<text x="360" y="505" fill="#364fc7" font-family="Arial,sans-serif" font-size="25" font-weight="800" transform="rotate(-29 360 505)">HIPOTENUSA</text>
+<g filter="url(#s)" font-family="Arial,sans-serif">
+<rect x="900" y="350" width="600" height="120" rx="24" fill="#fff"/><text x="945" y="425" fill="#0b7285" font-size="37" font-weight="900">sen θ = oposto / hipotenusa</text>
+<rect x="900" y="500" width="600" height="120" rx="24" fill="#e3fafc"/><text x="945" y="575" fill="#1864ab" font-size="36" font-weight="900">cos θ = adjacente / hipotenusa</text>
+<rect x="900" y="650" width="600" height="120" rx="24" fill="#fff4e6"/><text x="945" y="725" fill="#e8590c" font-size="37" font-weight="900">tg θ = oposto / adjacente</text>
+</g>
+<text x="100" y="852" fill="#fff" font-family="Arial,sans-serif" font-size="26">MAPAS DO ENEM • O DESENHO VEM ANTES DA FÓRMULA</text>
+</svg>
