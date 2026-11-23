@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">Termoquímica no ENEM</title>
+<desc id="desc">Mapa visual com reações exotérmicas e endotérmicas, gráfico de entalpia e regras da Lei de Hess.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071f3d"/><stop offset="1" stop-color="#0c5680"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-opacity=".28"/></filter></defs>
+<rect width="1600" height="900" fill="url(#bg)"/>
+<circle cx="1480" cy="110" r="245" fill="#ff9b32" opacity=".95"/>
+<circle cx="110" cy="820" r="260" fill="#36d4c6" opacity=".88"/>
+<text x="100" y="120" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#8fe7ff">CIÊNCIAS DA NATUREZA • QUÍMICA</text>
+<text x="100" y="235" font-family="Arial,sans-serif" font-size="86" font-weight="900" fill="#fff">TERMOQUÍMICA</text>
+<text x="100" y="310" font-family="Arial,sans-serif" font-size="54" font-weight="800" fill="#ffd25c">NO ENEM</text>
+<g filter="url(#s)" font-family="Arial,sans-serif">
+<rect x="100" y="385" width="430" height="280" rx="28" fill="#fff"/>
+<text x="145" y="450" font-size="32" font-weight="900" fill="#ef5a32">EXOTÉRMICA</text>
+<text x="145" y="505" font-size="27" font-weight="700" fill="#15314b">Libera calor</text>
+<text x="145" y="555" font-size="42" font-weight="900" fill="#ef5a32">ΔH &lt; 0</text>
+<text x="145" y="610" font-size="24" fill="#15314b">Produtos abaixo</text>
+<rect x="585" y="385" width="430" height="280" rx="28" fill="#fff"/>
+<text x="630" y="450" font-size="32" font-weight="900" fill="#168bb4">ENDOTÉRMICA</text>
+<text x="630" y="505" font-size="27" font-weight="700" fill="#15314b">Absorve calor</text>
+<text x="630" y="555" font-size="42" font-weight="900" fill="#168bb4">ΔH &gt; 0</text>
+<text x="630" y="610" font-size="24" fill="#15314b">Produtos acima</text>
+<rect x="1070" y="385" width="430" height="280" rx="28" fill="#fff"/>
+<text x="1115" y="450" font-size="32" font-weight="900" fill="#7149bd">LEI DE HESS</text>
+<text x="1115" y="505" font-size="25" fill="#15314b">Inverteu? Troque o sinal.</text>
+<text x="1115" y="555" font-size="25" fill="#15314b">Multiplicou? Ajuste ΔH.</text>
+<text x="1115" y="605" font-size="25" fill="#15314b">Somou? Some os ΔH.</text>
+</g>
+<rect x="300" y="745" width="1000" height="90" rx="38" fill="#ffd25c"/>
+<text x="800" y="804" text-anchor="middle" font-family="Arial,sans-serif" font-size="33" font-weight="900" fill="#102d45">ΔH = H(PRODUTOS) − H(REAGENTES)</text>
+</svg>
