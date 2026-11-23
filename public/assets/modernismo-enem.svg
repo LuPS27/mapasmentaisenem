@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">Modernismo no ENEM</title>
+<desc id="desc">Mapa visual com as três fases do Modernismo brasileiro e pistas para interpretar textos no ENEM.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22134f"/><stop offset="1" stop-color="#5227a8"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-opacity=".25"/></filter>
+</defs>
+<rect width="1600" height="900" fill="url(#bg)"/>
+<circle cx="1440" cy="90" r="220" fill="#ffcc33" opacity=".95"/>
+<circle cx="90" cy="820" r="260" fill="#ff5b7f" opacity=".9"/>
+<path d="M80 170 C260 60 350 270 520 150" fill="none" stroke="#67e8d2" stroke-width="18" stroke-linecap="round"/>
+<text x="105" y="140" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#ffcc33">LINGUAGENS • LITERATURA</text>
+<text x="105" y="245" font-family="Arial,sans-serif" font-size="90" font-weight="900" fill="#fff">MODERNISMO</text>
+<text x="105" y="325" font-family="Arial,sans-serif" font-size="58" font-weight="800" fill="#67e8d2">NO ENEM</text>
+<g filter="url(#shadow)" font-family="Arial,sans-serif">
+<rect x="105" y="400" rx="28" width="420" height="290" fill="#fff"/>
+<text x="145" y="460" font-size="32" font-weight="900" fill="#ee3f6b">1ª FASE</text>
+<text x="145" y="505" font-size="27" font-weight="700" fill="#2b2150">1922–1930</text>
+<text x="145" y="555" font-size="25" fill="#2b2150">Ruptura • humor</text>
+<text x="145" y="595" font-size="25" fill="#2b2150">Oralidade • manifestos</text>
+<text x="145" y="650" font-size="22" font-weight="700" fill="#5227a8">Que convenção o texto rompe?</text>
+<rect x="590" y="400" rx="28" width="420" height="290" fill="#fff"/>
+<text x="630" y="460" font-size="32" font-weight="900" fill="#ef9c00">2ª FASE</text>
+<text x="630" y="505" font-size="27" font-weight="700" fill="#2b2150">1930–1945</text>
+<text x="630" y="555" font-size="25" fill="#2b2150">Crítica social • cotidiano</text>
+<text x="630" y="595" font-size="25" fill="#2b2150">Região • conflito interior</text>
+<text x="630" y="650" font-size="22" font-weight="700" fill="#5227a8">Como indivíduo e sociedade</text>
+<text x="630" y="678" font-size="22" font-weight="700" fill="#5227a8">entram em tensão?</text>
+<rect x="1075" y="400" rx="28" width="420" height="290" fill="#fff"/>
+<text x="1115" y="460" font-size="32" font-weight="900" fill="#178f83">3ª FASE</text>
+<text x="1115" y="505" font-size="27" font-weight="700" fill="#2b2150">A partir de 1945</text>
+<text x="1115" y="555" font-size="25" fill="#2b2150">Invenção verbal</text>
+<text x="1115" y="595" font-size="25" fill="#2b2150">Introspecção • rigor</text>
+<text x="1115" y="650" font-size="22" font-weight="700" fill="#5227a8">Como a linguagem vira</text>
+<text x="1115" y="678" font-size="22" font-weight="700" fill="#5227a8">parte do problema?</text>
+</g>
+<rect x="330" y="760" rx="34" width="940" height="84" fill="#ffcc33"/>
+<text x="800" y="816" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="900" fill="#2b2150">EVIDÊNCIA → PROCEDIMENTO → EFEITO → CONTEXTO</text>
+</svg>
