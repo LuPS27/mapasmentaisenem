@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
+<title id="t">Revisão espaçada para o ENEM</title><desc id="d">Fluxo visual aprender, lembrar, corrigir e reagendar.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#28185f"/><stop offset="1" stop-color="#6a35c7"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-opacity=".22"/></filter></defs>
+<rect width="1600" height="900" rx="36" fill="url(#bg)"/>
+<circle cx="1440" cy="90" r="210" fill="#ffcf3d" opacity=".18"/><circle cx="120" cy="830" r="260" fill="#4ee0c1" opacity=".15"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="110" y="120" fill="#54e4c7" font-size="34" font-weight="700">MAPAS MENTAIS ENEM • PLANEJAMENTO</text>
+<text x="110" y="225" fill="#fff" font-size="86" font-weight="900">REVISÃO ESPAÇADA</text><text x="110" y="310" fill="#ffcf3d" font-size="68" font-weight="900">PARA O ENEM</text>
+<text x="110" y="370" fill="#fff" font-size="30">Volte ao conteúdo com intenção — não do zero.</text>
+<g filter="url(#s)" font-size="30" font-weight="800" text-anchor="middle">
+<rect x="110" y="475" width="285" height="150" rx="28" fill="#fff"/><text x="252" y="545" fill="#28185f">1. APRENDER</text><text x="252" y="590" fill="#6a35c7" font-size="22">entender a ideia</text>
+<rect x="450" y="475" width="285" height="150" rx="28" fill="#54e4c7"/><text x="592" y="545" fill="#28185f">2. LEMBRAR</text><text x="592" y="590" fill="#28185f" font-size="22">sem consultar</text>
+<rect x="790" y="475" width="285" height="150" rx="28" fill="#ffcf3d"/><text x="932" y="545" fill="#28185f">3. CORRIGIR</text><text x="932" y="590" fill="#28185f" font-size="22">localizar a falha</text>
+<rect x="1130" y="475" width="285" height="150" rx="28" fill="#fff"/><text x="1272" y="545" fill="#28185f">4. REAGENDAR</text><text x="1272" y="590" fill="#6a35c7" font-size="22">ajustar o intervalo</text></g>
+<g fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M405 550h30"/><path d="m425 532 18 18-18 18"/><path d="M745 550h30"/><path d="m765 532 18 18-18 18"/><path d="M1085 550h30"/><path d="m1105 532 18 18-18 18"/></g>
+<rect x="110" y="710" width="1305" height="90" rx="24" fill="#1d1248"/><text x="762" y="765" text-anchor="middle" fill="#fff" font-size="31" font-weight="700">Lembrou bem? Aumente o espaço. Travou? Volte antes.</text>
+</g></svg>
